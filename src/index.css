@@ -22,5 +22,29 @@ code {
 #content {
   position: absolute;
   z-index: 1;
-  margin: 8px;
+  right: 16px;
+  left: 16px;
+}
+
+#search-bar {
+  background-color: white;
+  padding: 8px;
+  padding-right: 16px;
+  padding-left: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 16pt;
+}
+
+#search-text {
+  border: none;
+  font-weight: bold;
+  font-size: 16pt;
+  text-align: center;
+}
+
+#search-text:focus {
+  outline: none;
+  text-align: center;
 }
