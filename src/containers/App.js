@@ -1,12 +1,13 @@
 import React, { Component } from "react";
 import BackgroundMap from "../components/BackgroundMap";
 
-const mannheim = [49.487457, 8.46604];
-
 export default class App extends Component {
   constructor(props) {
     super(props);
-    this.state = { city: "Mannheim" };
+    this.state = {
+      city: "Mannheim",
+      center: [49.487457, 8.46604]
+    };
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
   }
@@ -37,7 +38,7 @@ export default class App extends Component {
             </button>
           </form>
         </div>
-        <BackgroundMap center={mannheim} />
+        <BackgroundMap center={this.state.center} />
       </div>
     );
   }
