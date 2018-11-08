@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import BackgroundMap from "../components/BackgroundMap";
+import axios from "axios";
 
 export default class App extends Component {
   constructor(props) {
@@ -17,8 +18,29 @@ export default class App extends Component {
   }
 
   handleSubmit(event) {
-    alert("A city was submitted: " + this.state.city);
+    this.cityToCoordinates(this.state.city);
     event.preventDefault();
+  }
+
+  // Function to get the lon and lat based on the city. Always choose the first result in search
+  cityToCoordinates(city) {
+    axios
+      .get("https://nominatim.openstreetmap.org/search", {
+        params: {
+          city: city,
+          format: "json"
+        }
+      })
+      .then(response => {
+        this.setState({ center: [response.data[0].lat, response.data[0].lon] });
+        console.log(this.state);
+      })
+      .catch(function(error) {
+        console.log(error);
+      })
+      .then(function() {
+        // always executed
+      });
   }
 
   render() {
