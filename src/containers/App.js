@@ -54,6 +54,7 @@ export default class App extends Component {
               id="search-text"
               onChange={this.handleChange}
               value={this.state.city}
+              autoComplete="off"
             />
             <button id="submit-button" type="submit">
               🔍
