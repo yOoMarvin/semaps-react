@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Development
 
-`npm start`runs the app on [http://localhost:3000](http://localhost:3000) You will also see any lint errors in the console. <br>
-`npm run build` uilds the app for production to the `build` folder. Deployment is done automatically with [Heroku](https://www.heroku.com/) under [semaps.herokuapp.com](http://semaps.herokuapp.com/) <br>
+`npm start` runs the app on [http://localhost:3000](http://localhost:3000) You will also see any lint errors in the console. <br>
+`npm run build` builds the app for production to the `build` folder. Deployment is done automatically with [Heroku](https://www.heroku.com/) under [semaps.herokuapp.com](http://semaps.herokuapp.com/) <br>
 
 ## Used Libraries
 
