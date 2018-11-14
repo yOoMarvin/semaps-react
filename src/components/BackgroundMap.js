@@ -27,7 +27,7 @@ export default class BackgroundMap extends Component {
   getStyle(feature, layer) {
     return {
       fillColor: getAreaColor(feature),
-      opacity: 0.65,
+      fillOpacity: 0.65,
       color: "none"
     };
   }
