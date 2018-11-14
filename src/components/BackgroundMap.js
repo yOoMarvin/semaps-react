@@ -4,13 +4,23 @@ import data from "../utils/geo.json";
 
 function getAreaColor(feature) {
   console.log(feature);
-  switch (feature.properties.name) {
+  /*switch (feature.properties.name) {
     case "Area One":
       return "blue";
     case "Area Two":
       return "yellow";
       break;
+  }*/
+  return getRandomColor();
+}
+
+function getRandomColor() {
+  var letters = "0123456789ABCDEF";
+  var color = "#";
+  for (var i = 0; i < 6; i++) {
+    color += letters[Math.floor(Math.random() * 16)];
   }
+  return color;
 }
 
 export default class BackgroundMap extends Component {
@@ -18,7 +28,7 @@ export default class BackgroundMap extends Component {
     return {
       fillColor: getAreaColor(feature),
       opacity: 0.65,
-      color: "white"
+      color: "none"
     };
   }
   render() {
