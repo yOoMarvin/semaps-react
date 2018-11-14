@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.46994, 49.488757]
+      },
+      "properties": {
+        "marker-color": "#33d11d",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "a",
+        "color": "#121212"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area Two"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [8.46604, 49.487457],
+            [8.46604, 49.498],
+            [8.47804, 49.498],
+            [8.47804, 49.487457],
+            [8.46604, 49.487457]
+          ]
+        ]
+      }
+    }
+  ]
+}
