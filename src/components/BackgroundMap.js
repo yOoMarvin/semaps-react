@@ -31,7 +31,7 @@ function getAreaColor(feature) {
     case "http://linkedgeodata.org/ontology/ManMadeThing":
       return;
     case "http://linkedgeodata.org/ontology/RailwayThing":
-      return;
+      return "lightgray";
 
       break;
   }
