@@ -4,14 +4,37 @@ import data from "../utils/geo.json";
 
 function getAreaColor(feature) {
   console.log(feature);
-  /*switch (feature.properties.name) {
-    case "Area One":
-      return "blue";
-    case "Area Two":
+  switch (feature.properties.name) {
+    // Education
+    case "http://linkedgeodata.org/ontology/University":
+      return "dodgerblue";
+    case "http://linkedgeodata.org/ontology/School":
+      return "deepskyblue";
+    // Nature and Leisure
+    case "http://linkedgeodata.org/ontology/Leisure":
+      return "green";
+    // Sports
+    case "http://linkedgeodata.org/ontology/SportThing":
       return "yellow";
+    // Hospital
+    case "http://linkedgeodata.org/ontology/Hospital":
+      return "red";
+    // Shopping
+    case "http://linkedgeodata.org/ontology/Shop":
+      return "orange";
+    // Tourist and Historic
+    case "http://linkedgeodata.org/ontology/TourismThing":
+      return "purple";
+    case "http://linkedgeodata.org/ontology/HistoricThing":
+      return "purple";
+    // Misc.
+    case "http://linkedgeodata.org/ontology/ManMadeThing":
+      return;
+    case "http://linkedgeodata.org/ontology/RailwayThing":
+      return;
+
       break;
-  }*/
-  return getRandomColor();
+  }
 }
 
 function getRandomColor() {
