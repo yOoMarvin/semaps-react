@@ -54,6 +54,11 @@ export default class BackgroundMap extends Component {
       color: "none"
     };
   }
+  onEachFeature(feature, layer) {
+    if (feature.properties && feature.properties.name) {
+      layer.bindPopup(feature.properties.name);
+    }
+  }
   render() {
     return (
       <Map id="map" center={this.props.center} zoom={14} zoomControl={false}>
@@ -61,7 +66,11 @@ export default class BackgroundMap extends Component {
           attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-        <GeoJSON data={data} style={this.getStyle} />
+        <GeoJSON
+          data={data}
+          style={this.getStyle}
+          onEachFeature={this.onEachFeature}
+        />
       </Map>
     );
   }
