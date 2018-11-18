@@ -3,7 +3,6 @@ import { Map, TileLayer, GeoJSON } from "react-leaflet";
 import data from "../utils/geo.json";
 
 function getAreaColor(feature) {
-  console.log(feature);
   switch (feature.properties.name) {
     // Education
     case "http://linkedgeodata.org/ontology/University":

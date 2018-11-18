@@ -49,7 +49,6 @@ export default class App extends Component {
     return (
       <div>
         <div id="content">
-          <ModalButtos />
           <form onSubmit={this.handleSubmit} id="search-bar">
             <div> </div>
             <input
@@ -62,6 +61,9 @@ export default class App extends Component {
               🔍
             </button>
           </form>
+          <div id="modal-buttons">
+            <ModalButtos />
+          </div>
         </div>
         <BackgroundMap center={this.state.center} />
       </div>

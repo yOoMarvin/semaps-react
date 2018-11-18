@@ -1,7 +1,10 @@
 # Semaps - A semantic approach to maps 🌍
 
-This is a student project, done durin the HWS18 at the University of Mannheim. Semaps fetches different datasets of the semantic web and looks for common places in cities.
-So you can find what is important for your next city trip! Of course, we're using the beautyful Mannheim as a starting point!
+This is a student project, done during the HWS18 at the University of
+Mannheim. Semaps fetches different datasets of the semantic web and
+looks for common places in cities. So you can find what is important
+for your next city trip! Of course, we're using the beautiful Mannheim
+as a starting point!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -4,11 +4,14 @@ import Legend from "../components/Legend";
 import Popup from "reactjs-popup";
 
 export default class ModalButtons extends Component {
+  handleOnClick() {
+    window.open("https://github.com/yOoMarvin/semaps-react", "_blank");
+  }
   render() {
     return (
-      <div>
+      <div id="modal-buttons-child">
         <Popup
-          trigger={<button className="button"> About semaps </button>}
+          trigger={<button className="button"> About semaps 🌍 </button>}
           modal
           closeOnDocumentClick
         >
@@ -16,16 +19,16 @@ export default class ModalButtons extends Component {
         </Popup>
 
         <Popup
-          trigger={<button className="button"> Legend </button>}
+          trigger={<button className="button"> Legend 🎨 </button>}
           modal
           closeOnDocumentClick
         >
           <Legend />
         </Popup>
 
-        <a href="https://github.com/yoomarvin/semaps-react" target="_blank">
-          <button className="button">Open Source</button>
-        </a>
+        <button className="button" onClick={this.handleOnClick}>
+          Open Source 👨‍💻
+        </button>
       </div>
     );
   }

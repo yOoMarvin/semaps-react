@@ -24,6 +24,32 @@ code {
   z-index: 1;
   right: 16px;
   left: 16px;
+  margin-top: 8px;
+}
+
+#modal-buttons {
+  float: right;
+  margin-top: 16px;
+}
+
+#modal-buttons-child {
+  flex-direction: column;
+  display: flex;
+  margin-top: 8px;
+}
+.button {
+  margin-top: 16px;
+  font-weight: bold;
+  font-size: 14px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+}
+
+.popup-content {
+  border-radius: 5px;
+  padding: 8px;
 }
 
 #search-bar {
