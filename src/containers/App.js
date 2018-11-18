@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import BackgroundMap from "../components/BackgroundMap";
+import ModalButtos from "./ModalButtons";
 import axios from "axios";
+import Popup from "reactjs-popup";
 
 export default class App extends Component {
   constructor(props) {
@@ -47,7 +49,7 @@ export default class App extends Component {
     return (
       <div>
         <div id="content">
-          <h1>Hi 👋 this is Semaps 🌍 a semantic approach to maps 🗺</h1>
+          <ModalButtos />
           <form onSubmit={this.handleSubmit} id="search-bar">
             <div> </div>
             <input
