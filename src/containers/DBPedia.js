@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-import BackgroundMapLOD from "../components/BackgroundMapLOD";
+import BackgroundMapDBP from "../components/BackgroundMapDBP";
 import ModalButtos from "./ModalButtons";
 import axios from "axios";
 
-export default class App extends Component {
+export default class DBPedia extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -66,7 +66,7 @@ export default class App extends Component {
             <ModalButtos />
           </div>
         </div>
-        <BackgroundMapLOD center={this.state.center} />
+        <BackgroundMapDBP center={this.state.center} />
       </div>
     );
   }

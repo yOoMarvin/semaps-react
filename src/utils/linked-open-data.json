@@ -1,0 +1,8696 @@
+{"type": "FeatureCollection",
+		  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45743456875,
+        49.487161025
+      ]
+    },
+    "properties": {
+      "name": "A5",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.430673822222223,
+        49.488563477777774
+      ]
+    },
+    "properties": {
+      "name": "Goetheschule Nord",
+      "color": "#DC0EF3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43155955,
+        49.471049619999995
+      ]
+    },
+    "properties": {
+      "name": "Albert-Schweitzer-Schule",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.442076233333331,
+        49.48301013000001
+      ]
+    },
+    "properties": {
+      "name": "Carl-Bosch-Gymnasium",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4400642,
+        49.48075380625
+      ]
+    },
+    "properties": {
+      "name": "Erich Kästner-Schule",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46679024,
+        49.48173709999999
+      ]
+    },
+    "properties": {
+      "name": "Institut für Mittelstandsforschung",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.504070569565217,
+        49.48157592608696
+      ]
+    },
+    "properties": {
+      "name": "Universität Mannheim Institut für Sport",
+      "color": "#D0EBCF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.493282606666668,
+        49.48649837999999
+      ]
+    },
+    "properties": {
+      "name": "Bootshaus",
+      "color": "#6AB173"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5084329875,
+        49.48678985
+      ]
+    },
+    "properties": {
+      "name": "MTG Stadiongaststätte",
+      "color": "#4976DD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.460642983870967,
+        49.488399545161286
+      ]
+    },
+    "properties": {
+      "name": "Friedrich-List-Schule",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.466280264285714,
+        49.493443785714284
+      ]
+    },
+    "properties": {
+      "name": "Johannes-Kepler-Schule",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48751861,
+        49.454742499999995
+      ]
+    },
+    "properties": {
+      "name": "Johan Sebastian Bach Gymnasium - Ott-Heinrich-Stift",
+      "color": "#384642"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.488720666666666,
+        49.45463018
+      ]
+    },
+    "properties": {
+      "name": "Johann Sebastian Bach Gymnasium",
+      "color": "#384642"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4849908025641,
+        49.456220907692305
+      ]
+    },
+    "properties": {
+      "name": "Schillerschule mit Werkrealschule",
+      "color": "#384642"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486919338888889,
+        49.49282744722221
+      ]
+    },
+    "properties": {
+      "name": "Universitätsmedizin Mannheim",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4947538125,
+        49.4487454125
+      ]
+    },
+    "properties": {
+      "name": "Wilhelm-Wundt-Schule",
+      "color": "#FC2485"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49859545,
+        49.5333089125
+      ]
+    },
+    "properties": {
+      "name": "Waldschule",
+      "color": "#D1F1F6"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.453805671794871,
+        49.477731205128194
+      ]
+    },
+    "properties": {
+      "name": "Lusanum das Gesundheitszentrum",
+      "color": "#08659D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.470859872727273,
+        49.506189454545456
+      ]
+    },
+    "properties": {
+      "name": "Wilhelm-Busch-Schule",
+      "color": "#89EABF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471556746153848,
+        49.48370112564102
+      ]
+    },
+    "properties": {
+      "name": "CinemaxX",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.475830607407406,
+        49.49555439259258
+      ]
+    },
+    "properties": {
+      "name": "Werner-von-Siemens-Schule Mannheim",
+      "color": "#9E70DE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.523982823076922,
+        49.50403010000001
+      ]
+    },
+    "properties": {
+      "name": "Bertha-Hirsch-Schule",
+      "color": "#BC0A99"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.464462589473685,
+        49.48679910526316
+      ]
+    },
+    "properties": {
+      "name": "C1",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48608698,
+        49.468901419999995
+      ]
+    },
+    "properties": {
+      "name": "Merkur Akademie International Mannheim",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4766738,
+        49.48891844285714
+      ]
+    },
+    "properties": {
+      "name": "Jobcenter Junges Mannheim",
+      "color": "#DF900D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.476643087500001,
+        49.489159925
+      ]
+    },
+    "properties": {
+      "name": "Jobcenter Mannheim",
+      "color": "#DF900D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4573972,
+        49.498302962500006
+      ]
+    },
+    "properties": {
+      "name": "Musikpark",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.469224056249999,
+        49.471029387499996
+      ]
+    },
+    "properties": {
+      "name": "Diesterweg Grundschule",
+      "color": "#ED02F7"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.470785386666668,
+        49.48383543333333
+      ]
+    },
+    "properties": {
+      "name": "Staatliche Hochschule für Musik und Darstellende Kunst",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.464041930434782,
+        49.48480473913044
+      ]
+    },
+    "properties": {
+      "name": "IHK Rhein-Neckar",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.463702979999999,
+        49.48548194
+      ]
+    },
+    "properties": {
+      "name": "Handwerkskammer Mannheim Rhein-Neckar-Odenwald",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.480302528571428,
+        49.4937098
+      ]
+    },
+    "properties": {
+      "name": "Heinrich-Lanz-Schule",
+      "color": "#9E70DE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.462494526190477,
+        49.48341409924146
+      ]
+    },
+    "properties": {
+      "name": "Schloss",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4685485,
+        49.5028698875
+      ]
+    },
+    "properties": {
+      "name": "Humboldtschule",
+      "color": "#89EABF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.482071572727273,
+        49.48932714545454
+      ]
+    },
+    "properties": {
+      "name": "Theresien-Krankenhaus",
+      "color": "#DF900D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.476639229411765,
+        49.48207300588235
+      ]
+    },
+    "properties": {
+      "name": "Karl-Friedrich Gymnasium",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.470665615789473,
+        49.46405464210527
+      ]
+    },
+    "properties": {
+      "name": "Diakoniekrankenhaus Mannheim",
+      "color": "#ED02F7"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.470173933333333,
+        49.46124390666667
+      ]
+    },
+    "properties": {
+      "name": "Hauptgebäude",
+      "color": "#162456"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.469619608695652,
+        49.461665056521745
+      ]
+    },
+    "properties": {
+      "name": "Musiktrakt",
+      "color": "#162456"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4707794,
+        49.46143762999999
+      ]
+    },
+    "properties": {
+      "name": "Sporthalle",
+      "color": "#162456"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471073014285713,
+        49.461693371428574
+      ]
+    },
+    "properties": {
+      "name": "Moll-Gymnasium",
+      "color": "#162456"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486809938888888,
+        49.4773896
+      ]
+    },
+    "properties": {
+      "name": "Helene-Lange-Schule",
+      "color": "#321F03"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.485530085714286,
+        49.47866274285713
+      ]
+    },
+    "properties": {
+      "name": "Liselotte-Gymnasium",
+      "color": "#321F03"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.502639889999998,
+        49.469939800000006
+      ]
+    },
+    "properties": {
+      "name": "Johann-Peter-Hebel-Schule",
+      "color": "#B4E444"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45936522857143,
+        49.495959885714285
+      ]
+    },
+    "properties": {
+      "name": "Jungbuschschule",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.480568194444443,
+        49.524930333333344
+      ]
+    },
+    "properties": {
+      "name": "Waldhofschule",
+      "color": "#73FD8D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.492871366666668,
+        49.4773285888889
+      ]
+    },
+    "properties": {
+      "name": "Planetarium",
+      "color": "#6A27AD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.516388127272727,
+        49.514535900000006
+      ]
+    },
+    "properties": {
+      "name": "Käfertalschule",
+      "color": "#98A28A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.517377942857143,
+        49.51456035714285
+      ]
+    },
+    "properties": {
+      "name": "Sportplatz der Käfertalschule",
+      "color": "#98A28A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43673272857143,
+        49.48088311428571
+      ]
+    },
+    "properties": {
+      "name": "Erich-Kästner-Schule",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.468768489999999,
+        49.49340478
+      ]
+    },
+    "properties": {
+      "name": "ZI-Klinik für abhängiges Verhalten",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4678491625,
+        49.4983328125
+      ]
+    },
+    "properties": {
+      "name": "Neckarschule",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.460584475,
+        49.5028581
+      ]
+    },
+    "properties": {
+      "name": "Hans-Zulliger-Schule",
+      "color": "#EB4596"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48876585909091,
+        49.50080621818183
+      ]
+    },
+    "properties": {
+      "name": "Erich-Kästner-Schule",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.523295333333333,
+        49.51628553333333
+      ]
+    },
+    "properties": {
+      "name": "former Mannheim Elementary School",
+      "color": "#DCCF71"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.472009329411764,
+        49.492095176470585
+      ]
+    },
+    "properties": {
+      "name": "Eberhard-Gothein-Schule",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.437966922222222,
+        49.486324833333335
+      ]
+    },
+    "properties": {
+      "name": "Grundschule Gräfenauschule",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4742441,
+        49.48198952
+      ]
+    },
+    "properties": {
+      "name": "Max-Hachenburg-Schule",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.523648760606061,
+        49.441556854545446
+      ]
+    },
+    "properties": {
+      "name": "Konrad-Duden-Schule",
+      "color": "#0F0374"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.52502929090909,
+        49.4417767
+      ]
+    },
+    "properties": {
+      "name": "Sporthalle Konrad-Duden-Schule",
+      "color": "#0F0374"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.491055915384617,
+        49.48469812051281
+      ]
+    },
+    "properties": {
+      "name": "Seerestaurant",
+      "color": "#2444A0"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.452423076923075,
+        49.47206309230769
+      ]
+    },
+    "properties": {
+      "name": "Amtsgericht Ludwigshafen am Rhein",
+      "color": "#759474"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.448230657142856,
+        49.48053795714286
+      ]
+    },
+    "properties": {
+      "name": "BBS W2",
+      "color": "#926D38"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48679176,
+        49.492862360000004
+      ]
+    },
+    "properties": {
+      "name": "Augenklinik-Ambulanz",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486287180000001,
+        49.49337734
+      ]
+    },
+    "properties": {
+      "name": "Fraunenklinik/Kreißsaal",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486318850000002,
+        49.492978116666656
+      ]
+    },
+    "properties": {
+      "name": "HNO-Ambulanz",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48162702,
+        49.459007279999994
+      ]
+    },
+    "properties": {
+      "name": "Almenhofschule - Sporthalle",
+      "color": "#5F9589"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.426194611764705,
+        49.48979887058823
+      ]
+    },
+    "properties": {
+      "name": "Städtisches Klinikum Ludwigshafen",
+      "color": "#DC0EF3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.432719707692307,
+        49.464691338461535
+      ]
+    },
+    "properties": {
+      "name": "Schulgebäude",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.458885266666666,
+        49.490085783333335
+      ]
+    },
+    "properties": {
+      "name": "Elisabeth-Gymnasium",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.431337033333334,
+        49.464462188888895
+      ]
+    },
+    "properties": {
+      "name": "Schulgebäude",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.432283680000001,
+        49.464391119999995
+      ]
+    },
+    "properties": {
+      "name": "Schulgebäude",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.430981,
+        49.463406320000004
+      ]
+    },
+    "properties": {
+      "name": "Kinderklinik St. Annastift",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.431337033333334,
+        49.464462188888895
+      ]
+    },
+    "properties": {
+      "name": "Schulgebäude",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.430462276470587,
+        49.46295181764706
+      ]
+    },
+    "properties": {
+      "name": "Kinderklinik St. Annastift",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.432283680000001,
+        49.464391119999995
+      ]
+    },
+    "properties": {
+      "name": "Schulgebäude",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471000492857144,
+        49.44969465000001
+      ]
+    },
+    "properties": {
+      "name": "Freizeitschule",
+      "color": "#B1FF17"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.470528122222223,
+        49.44871200000001
+      ]
+    },
+    "properties": {
+      "name": "Hans-Müller-Wiedemann-Schule",
+      "color": "#B1FF17"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.472853318181818,
+        49.44867366363638
+      ]
+    },
+    "properties": {
+      "name": "Freie Waldorfschule Mannheim",
+      "color": "#647BCE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.474345025,
+        49.5166590375
+      ]
+    },
+    "properties": {
+      "name": "Luzenbergschule",
+      "color": "#ED58BC"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.495417512500001,
+        49.52219069375
+      ]
+    },
+    "properties": {
+      "name": "Friedrich-Ebert-Schule",
+      "color": "#5099F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.445499912499999,
+        49.474578406250004
+      ]
+    },
+    "properties": {
+      "name": "Wittelsbach-Schule",
+      "color": "#926D38"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4256815,
+        49.477853655000004
+      ]
+    },
+    "properties": {
+      "name": "Anne-Frank-Realschule",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.426803686206895,
+        49.47827120000001
+      ]
+    },
+    "properties": {
+      "name": "Theodor-Heuss-Gymnasium",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.473854628571429,
+        49.50646028571429
+      ]
+    },
+    "properties": {
+      "name": "Schweißtechnische Lehr- und Versuchsanstalt Mannheim",
+      "color": "#0A0ED4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.484477669230772,
+        49.47422183846153
+      ]
+    },
+    "properties": {
+      "name": "Shell",
+      "color": "#321F03"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46601031875,
+        49.482013825
+      ]
+    },
+    "properties": {
+      "name": "Zentrum für Europäische Wirtschaftsforschung",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46643656,
+        49.48268556
+      ]
+    },
+    "properties": {
+      "name": "Verfügungsgebäude Rechtswissenschaften und Volkwirtschaftslehre",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.469239671428571,
+        49.489191157142855
+      ]
+    },
+    "properties": {
+      "name": "Mozartschule",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4819432,
+        49.47961359166666
+      ]
+    },
+    "properties": {
+      "name": "Pestalozzischule",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.479649727777778,
+        49.48551012222222
+      ]
+    },
+    "properties": {
+      "name": "Tulla-Realschule",
+      "color": "#DF900D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.496538709090911,
+        49.45513550909091
+      ]
+    },
+    "properties": {
+      "name": "IB-GIS mbH - Medizinische Akademie",
+      "color": "#8E2370"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.512624633333335,
+        49.478891479999994
+      ]
+    },
+    "properties": {
+      "name": "Johann-Peter-Hebel Schule",
+      "color": "#ED636E"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.499189580000001,
+        49.478570500000004
+      ]
+    },
+    "properties": {
+      "name": "Sporthallle der Universität",
+      "color": "#6A27AD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.498540258333334,
+        49.48884045
+      ]
+    },
+    "properties": {
+      "name": "Sportomed Fitness & Prävention",
+      "color": "#6AB173"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.506592675,
+        49.499849637500006
+      ]
+    },
+    "properties": {
+      "name": "Aral Tankstelle Mathias Jäger",
+      "color": "#8DD9E4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.490131457142857,
+        49.53245301428571
+      ]
+    },
+    "properties": {
+      "name": "Alfred-Delp-Schule",
+      "color": "#E2B211"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.460192104545456,
+        49.48610964545455
+      ]
+    },
+    "properties": {
+      "name": "Ursulinen-Gymnasium",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.469755747058821,
+        49.483460676470585
+      ]
+    },
+    "properties": {
+      "name": "Kurpfalz-Gymnasium und Realschule",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.470173566666666,
+        49.48359246
+      ]
+    },
+    "properties": {
+      "name": "Mozartschule",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48474766,
+        49.48898734
+      ]
+    },
+    "properties": {
+      "name": "Lessing-Gymnasium",
+      "color": "#2444A0"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471165545454546,
+        49.49098756363637
+      ]
+    },
+    "properties": {
+      "name": "Maria Montessori Schule",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.483622225000001,
+        49.50746519999999
+      ]
+    },
+    "properties": {
+      "name": "Käthe-Kollwitz-Grundschule",
+      "color": "#964631"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47497991764706,
+        49.48235851176471
+      ]
+    },
+    "properties": {
+      "name": "Kunsthalle Mannheim",
+      "color": "#DF900D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.451423514285713,
+        49.474539878571434
+      ]
+    },
+    "properties": {
+      "name": "Berufsbildende Schule Wirtschaft 1",
+      "color": "#926D38"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.483872304054055,
+        49.48170837634609
+      ]
+    },
+    "properties": {
+      "name": "Landesbank Baden-Württemberg, BW Bank",
+      "color": "#321F03"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471015630769232,
+        49.492283646153844
+      ]
+    },
+    "properties": {
+      "name": "Abendakademie",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46573372,
+        49.49237513999999
+      ]
+    },
+    "properties": {
+      "name": "Zentralinstitut für Seelische Gesundheit",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45720412,
+        49.49634384
+      ]
+    },
+    "properties": {
+      "name": "Popakademie Baden-Württemberg",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.461303100000002,
+        49.48556442307693
+      ]
+    },
+    "properties": {
+      "name": "A3",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45920954,
+        49.48458265333332
+      ]
+    },
+    "properties": {
+      "name": "Mensa am Schloss",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486751769230768,
+        49.49501009230768
+      ]
+    },
+    "properties": {
+      "name": "Ludwig-Frank-Gymnasium",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.477384758333335,
+        49.48512138333334
+      ]
+    },
+    "properties": {
+      "name": "Rosengarten",
+      "color": "#DF900D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.50977738,
+        49.4782072
+      ]
+    },
+    "properties": {
+      "name": "Thomaskirche",
+      "color": "#D0EBCF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.442224195652173,
+        49.485552534782606
+      ]
+    },
+    "properties": {
+      "name": "Rathaus-Center",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.451975,
+        49.47586346
+      ]
+    },
+    "properties": {
+      "name": "Brüder-Grimm-Schule",
+      "color": "#926D38"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.457781764705881,
+        49.48790552941176
+      ]
+    },
+    "properties": {
+      "name": "A",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.458309330000002,
+        49.48748997
+      ]
+    },
+    "properties": {
+      "name": "C",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.458048461111112,
+        49.487727844444436
+      ]
+    },
+    "properties": {
+      "name": "Rhenania-Haus",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46471676,
+        49.498491060000006
+      ]
+    },
+    "properties": {
+      "name": "Marie-Curie-Realschule",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.479105473684212,
+        49.498470600000005
+      ]
+    },
+    "properties": {
+      "name": "Uhlandschule",
+      "color": "#9E70DE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486905447619048,
+        49.49512692380953
+      ]
+    },
+    "properties": {
+      "name": "Ludwig-Frank-Gymnasium",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.504623857142857,
+        49.44683262857143
+      ]
+    },
+    "properties": {
+      "name": "Autohaus Renck",
+      "color": "#723E65"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49157362,
+        49.49822046
+      ]
+    },
+    "properties": {
+      "name": "Nebeniusplatz",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.484423425000001,
+        49.4711298625
+      ]
+    },
+    "properties": {
+      "name": "Brothers helping Sisters helping…",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.501140788888888,
+        49.50163415555556
+      ]
+    },
+    "properties": {
+      "name": "Ernst",
+      "color": "#5A8E84"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49446173235294,
+        49.48328223700982
+      ]
+    },
+    "properties": {
+      "name": "Luisenpark",
+      "color": "#6AB173"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.516575019047618,
+        49.53303354285715
+      ]
+    },
+    "properties": {
+      "name": "Wildpark",
+      "color": "#8CFA39"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.456850589999998,
+        49.48622425
+      ]
+    },
+    "properties": {
+      "name": "Alfred-Delp-Sportanlage",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.498308127777777,
+        49.48716757222221
+      ]
+    },
+    "properties": {
+      "name": "Unterer Neckar: Maulbeerinsel",
+      "color": "#6AB173"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.451685445679015,
+        49.45513408236726
+      ]
+    },
+    "properties": {
+      "name": "Reißinsel",
+      "color": "#3F796E"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.458928488888889,
+        49.44539919722224
+      ]
+    },
+    "properties": {
+      "name": "Bei der Silberpappel",
+      "color": "#9F89E4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.465260795454546,
+        49.49212398636364
+      ]
+    },
+    "properties": {
+      "name": "ZI - Therapiegebäude",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.465670939999999,
+        49.492759740000004
+      ]
+    },
+    "properties": {
+      "name": "ZI - Laborgebäude",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46650166923077,
+        49.49242912307693
+      ]
+    },
+    "properties": {
+      "name": "ZI - Forschungs- und Verwaltungsgebäude",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46608822857143,
+        49.49204016190476
+      ]
+    },
+    "properties": {
+      "name": "ZI - Wirtschaftsgebäude",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.468837336,
+        49.494820868
+      ]
+    },
+    "properties": {
+      "name": "Museumsschiff Mannheim",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.432173014285715,
+        49.49597152857143
+      ]
+    },
+    "properties": {
+      "name": "Friedrich-Engelhorn-Hochhaus",
+      "color": "#849970"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4604322,
+        49.468763679999995
+      ]
+    },
+    "properties": {
+      "name": "TFC - 1861 e.V. Ludwigshafen",
+      "color": "#3476F2"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.434284877777777,
+        49.465766411111105
+      ]
+    },
+    "properties": {
+      "name": "Tennisclub Giulini",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.470774143564356,
+        49.45162717387582
+      ]
+    },
+    "properties": {
+      "name": "Städtische Badeanstalt Stollenwörthweiher",
+      "color": "#B1FF17"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5209966875,
+        49.5230827125
+      ]
+    },
+    "properties": {
+      "name": "Jugendreiterhof Mannheim-Käfertal",
+      "color": "#B2999C"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486607533333334,
+        49.5081509
+      ]
+    },
+    "properties": {
+      "name": "Rhein-Neckar Skater e.V.",
+      "color": "#964631"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486762295454543,
+        49.50814358181819
+      ]
+    },
+    "properties": {
+      "name": "Rudi und Willi Altig Radstadion",
+      "color": "#964631"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4709746,
+        49.46200978
+      ]
+    },
+    "properties": {
+      "name": "Sportplatz",
+      "color": "#162456"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486721363636365,
+        49.50816253181819
+      ]
+    },
+    "properties": {
+      "name": "RRC Endspurt 1924 Mannheim e.V.",
+      "color": "#964631"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.478154620000002,
+        49.506388920000006
+      ]
+    },
+    "properties": {
+      "name": "Sporthalle IGMH",
+      "color": "#0A0ED4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43657051,
+        49.46902139000001
+      ]
+    },
+    "properties": {
+      "name": "Eisstadion Ludwigshafen",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.435498342857143,
+        49.46645944285715
+      ]
+    },
+    "properties": {
+      "name": "Polizeisportverein Grün-Weiß Ludwigshafen eV",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.484641127272727,
+        49.510962500000005
+      ]
+    },
+    "properties": {
+      "name": "Bowling Palace Mannheim",
+      "color": "#964631"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.50625465,
+        49.52861596874999
+      ]
+    },
+    "properties": {
+      "name": "Carl-Benz-Bad",
+      "color": "#C678E9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.504299225,
+        49.48310240000001
+      ]
+    },
+    "properties": {
+      "name": "BMCC e.V. Mannheim - Mountainbike Verein",
+      "color": "#4976DD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.469342619999999,
+        49.51362698
+      ]
+    },
+    "properties": {
+      "name": "Boulder Island",
+      "color": "#73BE5A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.485923060000001,
+        49.50978874
+      ]
+    },
+    "properties": {
+      "name": "Mannheimer FC Phönix 02",
+      "color": "#964631"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4851171,
+        49.53310296
+      ]
+    },
+    "properties": {
+      "name": "Seppl-Herberger-Stadion",
+      "color": "#E2B211"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.517842192307695,
+        49.464129148717944
+      ]
+    },
+    "properties": {
+      "name": "SAP-Arena",
+      "color": "#C88C2C"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5058393,
+        49.458256725
+      ]
+    },
+    "properties": {
+      "name": "Badminton-Center Neckarau",
+      "color": "#D6B871"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.525891826666667,
+        49.49972675333334
+      ]
+    },
+    "properties": {
+      "name": "Skateanlage",
+      "color": "#07EA77"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.51678545909091,
+        49.483927650000005
+      ]
+    },
+    "properties": {
+      "name": "Mannheimer Hockeyclub",
+      "color": "#A35212"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47075016,
+        49.503042640000004
+      ]
+    },
+    "properties": {
+      "name": "Bertha-Benz-Halle",
+      "color": "#89EABF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.504098183333333,
+        49.52628273333334
+      ]
+    },
+    "properties": {
+      "name": "VfB Gartenstadt 1950 e.V.",
+      "color": "#C678E9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43550462121212,
+        49.46511704242425
+      ]
+    },
+    "properties": {
+      "name": "Schulzentrum Mundenheim",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.436081923076921,
+        49.46486643076924
+      ]
+    },
+    "properties": {
+      "name": "Sporthalle Schulzentrum Ludwigshafen-Mundenheim mT",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.526538500000001,
+        49.46625163846154
+      ]
+    },
+    "properties": {
+      "name": "Maimarktgelände Turnierplatz",
+      "color": "#F40BAE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4619105625,
+        49.4384354625
+      ]
+    },
+    "properties": {
+      "name": "Ludwigshafener Ruderverein",
+      "color": "#CADB84"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4629636,
+        49.438497100000006
+      ]
+    },
+    "properties": {
+      "name": "Wasserskiclub Kurpfalz",
+      "color": "#F07393"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.463455457142857,
+        49.44152047142858
+      ]
+    },
+    "properties": {
+      "name": "Paddler-Gilde Ludwigshafen",
+      "color": "#F07393"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.464627357142858,
+        49.4412948
+      ]
+    },
+    "properties": {
+      "name": "Eisenbahnersportverein von 1927, Abteilung Kanu",
+      "color": "#F07393"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43718762,
+        49.46575416
+      ]
+    },
+    "properties": {
+      "name": "SV Südwest Ludwigshafen (Rasenplatz)",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43828376,
+        49.46641764
+      ]
+    },
+    "properties": {
+      "name": "SV Südwest Ludwigshafen (Hartplatz)",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.524828457142858,
+        49.503675400000006
+      ]
+    },
+    "properties": {
+      "name": "Sporthalle-Bertha-Hirsch-Schule",
+      "color": "#BC0A99"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.502289745454545,
+        49.47948407272727
+      ]
+    },
+    "properties": {
+      "name": "Carl-Benz-Stadion",
+      "color": "#6A27AD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.51350816923077,
+        49.48625448461538
+      ]
+    },
+    "properties": {
+      "name": "Tennisklub Grün-Weiß Mannheim",
+      "color": "#A35212"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.480572519999999,
+        49.46364534
+      ]
+    },
+    "properties": {
+      "name": "48er Platz",
+      "color": "#5FAED2"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.509277663636365,
+        49.48712331818182
+      ]
+    },
+    "properties": {
+      "name": "Tennishalle",
+      "color": "#4976DD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4264217,
+        49.48726224000001
+      ]
+    },
+    "properties": {
+      "name": "Heinrich-Ries-Halle",
+      "color": "#DC0EF3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.516381800000001,
+        49.48592656
+      ]
+    },
+    "properties": {
+      "name": "Tennisplätze DJK Feudenheim",
+      "color": "#A35212"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.51612014,
+        49.486742989999996
+      ]
+    },
+    "properties": {
+      "name": "DJK-Laufbahn",
+      "color": "#A35212"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.472127671428572,
+        49.49115209428572
+      ]
+    },
+    "properties": {
+      "name": "Herschelbad",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49962978,
+        49.47940588
+      ]
+    },
+    "properties": {
+      "name": "Rhein-Neckar Stadion",
+      "color": "#6A27AD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.502836153846154,
+        49.480967553846156
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Tornados",
+      "color": "#D0EBCF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.441193727272726,
+        49.483131372727264
+      ]
+    },
+    "properties": {
+      "name": "Sporthalle Carl Bosch Gymnasium",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48648766,
+        49.50321506
+      ]
+    },
+    "properties": {
+      "name": "Bouleanlage",
+      "color": "#964631"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49803682,
+        49.52151344
+      ]
+    },
+    "properties": {
+      "name": "Hartplatz des FC 67 Waldhof",
+      "color": "#EE39E2"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48596232857143,
+        49.53151781428572
+      ]
+    },
+    "properties": {
+      "name": "Herbert-Lucy-Halle",
+      "color": "#9D0143"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.506591376190476,
+        49.4878458095238
+      ]
+    },
+    "properties": {
+      "name": "Sportpark Pfeifferswörth",
+      "color": "#4976DD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.515926255999998,
+        49.48526768399999
+      ]
+    },
+    "properties": {
+      "name": "Sportpark Neckarplatt",
+      "color": "#A35212"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4716336,
+        49.46135172857142
+      ]
+    },
+    "properties": {
+      "name": "Ballspielfeld Moll",
+      "color": "#162456"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5004744,
+        49.46062286
+      ]
+    },
+    "properties": {
+      "name": "Asporta Mannheim-Neckarau",
+      "color": "#8E2370"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.479795176190475,
+        49.503390628571424
+      ]
+    },
+    "properties": {
+      "name": "Herzogenriedbad",
+      "color": "#0A0ED4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4827635,
+        49.4512517
+      ]
+    },
+    "properties": {
+      "name": "TC SW Neckarau",
+      "color": "#35B245"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4650162125,
+        49.44824240625
+      ]
+    },
+    "properties": {
+      "name": "Reitgemeinschaft Mannheim-Neckarau e.V.",
+      "color": "#B1FF17"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.508800608333333,
+        49.48807872083333
+      ]
+    },
+    "properties": {
+      "name": "MTG Mannheim",
+      "color": "#4976DD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.509867377777777,
+        49.48765046666668
+      ]
+    },
+    "properties": {
+      "name": "Leichtathletikhalle",
+      "color": "#4976DD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.502601564705882,
+        49.49838285882353
+      ]
+    },
+    "properties": {
+      "name": "Mannheimer Morgen Großdruckerei und Verlag GmbH",
+      "color": "#8DD9E4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.444102658333334,
+        49.52522773749999
+      ]
+    },
+    "properties": {
+      "name": "BASF SE, Werk Friesenheimer Insel",
+      "color": "#CD9AC6"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.451634379999998,
+        49.50547931999999
+      ]
+    },
+    "properties": {
+      "name": "Bunge Deutschland GmbH",
+      "color": "#C2CB2B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45146458888889,
+        49.50480981111111
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Bio Fuel GmbH",
+      "color": "#C2CB2B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486250158139535,
+        49.517927969882884
+      ]
+    },
+    "properties": {
+      "name": "Daimler AG, EvoBus GmbH",
+      "color": "#38E45C"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.466157255555556,
+        49.51173892222222
+      ]
+    },
+    "properties": {
+      "name": "Hutchinson GmbH",
+      "color": "#89EABF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47339801111111,
+        49.52733878888889
+      ]
+    },
+    "properties": {
+      "name": "Synbias Pharma",
+      "color": "#73FD8D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.439715570833336,
+        49.461036016666675
+      ]
+    },
+    "properties": {
+      "name": "Contargo Ludwigshafen",
+      "color": "#0563F4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.459187847058825,
+        49.51880184117648
+      ]
+    },
+    "properties": {
+      "name": "Alte Kläranlage",
+      "color": "#06E84B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.44040435945946,
+        49.464589570270256
+      ]
+    },
+    "properties": {
+      "name": "Raschig GmbH",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.474144975409835,
+        49.530927613114756
+      ]
+    },
+    "properties": {
+      "name": "Roche Diagnostics GmbH",
+      "color": "#73FD8D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.505184478947367,
+        49.44483782105264
+      ]
+    },
+    "properties": {
+      "name": "Sulzer",
+      "color": "#723E65"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.505836094444444,
+        49.44437052222222
+      ]
+    },
+    "properties": {
+      "name": "Weidner & Lahr",
+      "color": "#723E65"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.502365585714285,
+        49.446467885714284
+      ]
+    },
+    "properties": {
+      "name": "Süddeutsche Emulsions-Chemie",
+      "color": "#FC2485"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5097362375,
+        49.4473441625
+      ]
+    },
+    "properties": {
+      "name": "Fauth + Co. KG",
+      "color": "#723E65"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.493819157142857,
+        49.438397471428566
+      ]
+    },
+    "properties": {
+      "name": "Abwasserpumpwerk Altrip",
+      "color": "#194C20"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5262072,
+        49.44652717500001
+      ]
+    },
+    "properties": {
+      "name": "Parkschwimmbad Rheinau",
+      "color": "#EDB38A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.439665275000001,
+        49.4667739625
+      ]
+    },
+    "properties": {
+      "name": "Leichtathletikhalle",
+      "color": "#F890B8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.427940750000001,
+        49.43794055000001
+      ]
+    },
+    "properties": {
+      "name": "Bezirkssportanlage Rheingönheim",
+      "color": "#3A4F1E"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.460537188888887,
+        49.47002291111112
+      ]
+    },
+    "properties": {
+      "name": "Park-Tennisclub",
+      "color": "#3476F2"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4348224,
+        49.48154642
+      ]
+    },
+    "properties": {
+      "name": "Felix Bowling",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486567047058823,
+        49.49480124705883
+      ]
+    },
+    "properties": {
+      "name": "Sporthalle LFG",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.476006644444444,
+        49.50611242222222
+      ]
+    },
+    "properties": {
+      "name": "Eissportzentrum Herzogenried",
+      "color": "#0A0ED4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.502790954545455,
+        49.50186512727273
+      ]
+    },
+    "properties": {
+      "name": "Haartz GmbH",
+      "color": "#8DD9E4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.503620285714288,
+        49.496959571428576
+      ]
+    },
+    "properties": {
+      "name": "TÜV SÜD",
+      "color": "#8DD9E4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.419448230810813,
+        49.51190677567566
+      ]
+    },
+    "properties": {
+      "name": "BASF",
+      "color": "#00ADA0"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.453095033333334,
+        49.465965644444445
+      ]
+    },
+    "properties": {
+      "name": "Wasserwerk 1 Parkinsel",
+      "color": "#3476F2"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.459122506249999,
+        49.51339301875
+      ]
+    },
+    "properties": {
+      "name": "Birkel Teigwaren",
+      "color": "#06E84B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.460808728571427,
+        49.51401668571428
+      ]
+    },
+    "properties": {
+      "name": "Deutsche Tiernahrung Cremer GmbH & Co. KG",
+      "color": "#06E84B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.455001916666667,
+        49.50955856666667
+      ]
+    },
+    "properties": {
+      "name": "Pfalzmühle Mannheim",
+      "color": "#EB4596"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.454262499999999,
+        49.51075536666667
+      ]
+    },
+    "properties": {
+      "name": "WALTER RAU Lebensmittelwerke GmbH",
+      "color": "#EB4596"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.444433425,
+        49.4968021375
+      ]
+    },
+    "properties": {
+      "name": "Contargo Mannheim",
+      "color": "#0F8E6F"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.452245859090908,
+        49.4911067590909
+      ]
+    },
+    "properties": {
+      "name": "Contargo Mannheim",
+      "color": "#AAC5B3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.463176897590364,
+        49.53595979736337
+      ]
+    },
+    "properties": {
+      "name": "SCA Hygiene Products GmbH",
+      "color": "#F6F26C"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.497554686842104,
+        49.45658429736841
+      ]
+    },
+    "properties": {
+      "name": "FlachdachTechnologie GmbH & Co. KG",
+      "color": "#8E2370"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.473510203571427,
+        49.50181724642858
+      ]
+    },
+    "properties": {
+      "name": "Caterpillar Energy Solutions GmbH (MWM)",
+      "color": "#9E70DE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.501699607407406,
+        49.50881263703703
+      ]
+    },
+    "properties": {
+      "name": "Alstom",
+      "color": "#F33540"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4865666,
+        49.495903309999996
+      ]
+    },
+    "properties": {
+      "name": "Lange Rötterstraße",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.433552866129034,
+        49.47618290645163
+      ]
+    },
+    "properties": {
+      "name": "C",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.433910446153847,
+        49.47799204355234
+      ]
+    },
+    "properties": {
+      "name": "A",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.433809869841273,
+        49.477742957142866
+      ]
+    },
+    "properties": {
+      "name": "B",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.433510292857143,
+        49.47687065952381
+      ]
+    },
+    "properties": {
+      "name": "D",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.432819855263157,
+        49.47730044736843
+      ]
+    },
+    "properties": {
+      "name": "E",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.432267534374997,
+        49.4767846125
+      ]
+    },
+    "properties": {
+      "name": "F",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.469588416666666,
+        49.48013066666667
+      ]
+    },
+    "properties": {
+      "name": "Bahnsteig 1",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.469357800000001,
+        49.48025147142856
+      ]
+    },
+    "properties": {
+      "name": "Bahnsteig 2",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46957272857143,
+        49.480293371428566
+      ]
+    },
+    "properties": {
+      "name": "Bahnsteig 3",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.473348857142858,
+        49.495853971428566
+      ]
+    },
+    "properties": {
+      "name": "1",
+      "color": "#9E70DE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47348117142857,
+        49.49581314285714
+      ]
+    },
+    "properties": {
+      "name": "2",
+      "color": "#9E70DE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.473638942857143,
+        49.495876328571434
+      ]
+    },
+    "properties": {
+      "name": "3",
+      "color": "#9E70DE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.485196923076924,
+        49.47139590769231
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49110676923077,
+        49.46878245384615
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Hbf, W 55 - Mannheim Hbf, W 323",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49615052,
+        49.46693682
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#ECABEE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.468611755555555,
+        49.47924637777778
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46585765,
+        49.4810624
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.473158833333333,
+        49.4771871
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.464512812499999,
+        49.4814507375
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.458247241666669,
+        49.49769495
+      ]
+    },
+    "properties": {
+      "name": "Bosch Service",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.44789476,
+        49.49733972000001
+      ]
+    },
+    "properties": {
+      "name": "Gleis 13",
+      "color": "#0F8E6F"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45645986470588,
+        49.499295370588236
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.455514366666668,
+        49.484808783333335
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45544516,
+        49.484813419999995
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45831011111111,
+        49.48275246666667
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.459692350000001,
+        49.48221482500001
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.459704775,
+        49.482249
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4602839,
+        49.48214505
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#08659D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.462036814285714,
+        49.48201532857143
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#08659D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47637048,
+        49.47587026
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4750043,
+        49.47680210000001
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.487441465517243,
+        49.469289344827594
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48954226,
+        49.46948828
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49019878125,
+        49.469599968749996
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.497580040740742,
+        49.47050205185186
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#ECABEE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4927479,
+        49.469128633333334
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#ECABEE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4928424,
+        49.46908606666667
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#ECABEE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5018993,
+        49.462303633333335
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#ECABEE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.504219011111111,
+        49.46094366666667
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#D6B871"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.520131717021277,
+        49.45374333617023
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#D977F8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.461489400000001,
+        49.50533773333333
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#EB4596"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4890806375,
+        49.4696258375
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.485954920000001,
+        49.47093402
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.519199534,
+        49.454010894
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#D977F8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.505178208333334,
+        49.460705041666664
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#D6B871"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4560731,
+        49.484123333333336
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4561023,
+        49.4841605
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.461740383333334,
+        49.48201685
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#08659D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.456832566666668,
+        49.4835177
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4627938,
+        49.481865400000004
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471428525,
+        49.47836615
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.519985455555554,
+        49.500246644444445
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#36F2F1"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.519207254545455,
+        49.50006094545454
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#36F2F1"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.491649686363637,
+        49.468768736363636
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49434428125,
+        49.46775872187499
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#ECABEE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.503063083333332,
+        49.46437446666666
+      ]
+    },
+    "properties": {
+      "name": "101",
+      "color": "#B4E444"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.514328902857143,
+        49.46043004857144
+      ]
+    },
+    "properties": {
+      "name": "100",
+      "color": "#D977F8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5164186,
+        49.45956985555555
+      ]
+    },
+    "properties": {
+      "name": "113",
+      "color": "#D977F8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.517876073333333,
+        49.50869113333333
+      ]
+    },
+    "properties": {
+      "name": "10",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.444665289743588,
+        49.50137363333335
+      ]
+    },
+    "properties": {
+      "name": "Gleis 16 (Wassergleis)",
+      "color": "#0F8E6F"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.426666683333332,
+        49.468856933333335
+      ]
+    },
+    "properties": {
+      "name": "74",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.428623666666665,
+        49.47311893333333
+      ]
+    },
+    "properties": {
+      "name": "130",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.430032827272727,
+        49.47513162727273
+      ]
+    },
+    "properties": {
+      "name": "18",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.431590400000001,
+        49.47791138461538
+      ]
+    },
+    "properties": {
+      "name": "18",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.430451414285715,
+        49.477391978571426
+      ]
+    },
+    "properties": {
+      "name": "311",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43171605,
+        49.4793392
+      ]
+    },
+    "properties": {
+      "name": "18",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.430481557142858,
+        49.4754638
+      ]
+    },
+    "properties": {
+      "name": "17",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.433087936,
+        49.476880672
+      ]
+    },
+    "properties": {
+      "name": "17",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4316864,
+        49.48033027142857
+      ]
+    },
+    "properties": {
+      "name": "18",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.431865566666668,
+        49.47615438888889
+      ]
+    },
+    "properties": {
+      "name": "25",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.431542127272728,
+        49.48207901818182
+      ]
+    },
+    "properties": {
+      "name": "18",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46933855,
+        49.51119237499999
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#89EABF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4717839,
+        49.51293566666667
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#73BE5A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.466058275,
+        49.50885615
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#89EABF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.461454980000001,
+        49.50535944
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#EB4596"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.473939766666666,
+        49.514467966666665
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#ED58BC"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.435031885714286,
+        49.48278202857143
+      ]
+    },
+    "properties": {
+      "name": "RHB-Buckel",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.430243400000002,
+        49.47679337777778
+      ]
+    },
+    "properties": {
+      "name": "310",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.42756091111111,
+        49.46982933333334
+      ]
+    },
+    "properties": {
+      "name": "73",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.428043059999998,
+        49.47050984
+      ]
+    },
+    "properties": {
+      "name": "74",
+      "color": "#7DB782"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.51927371818182,
+        49.510115147727284
+      ]
+    },
+    "properties": {
+      "name": "5",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.517998420000001,
+        49.5093337
+      ]
+    },
+    "properties": {
+      "name": "4",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.51794086,
+        49.50862057
+      ]
+    },
+    "properties": {
+      "name": "11",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518149525,
+        49.5086266875
+      ]
+    },
+    "properties": {
+      "name": "14",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518314400000001,
+        49.5086313
+      ]
+    },
+    "properties": {
+      "name": "16",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5183666,
+        49.508547125
+      ]
+    },
+    "properties": {
+      "name": "17",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518383753846155,
+        49.50952871538462
+      ]
+    },
+    "properties": {
+      "name": "20",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518417279999998,
+        49.50945321
+      ]
+    },
+    "properties": {
+      "name": "21",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518555175000001,
+        49.5091100125
+      ]
+    },
+    "properties": {
+      "name": "25",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518572191666669,
+        49.50879439166667
+      ]
+    },
+    "properties": {
+      "name": "26",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.492095733333334,
+        49.46835313333333
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.476532537499999,
+        49.475995112499994
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47846782,
+        49.47497902
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.454062190909092,
+        49.48981464545455
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.496910072727273,
+        49.46527742727272
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#ECABEE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49696175909091,
+        49.465311681818186
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#ECABEE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4921354,
+        49.468386333333335
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.501801366666667,
+        49.462221666666665
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#ECABEE"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.454337838888888,
+        49.48834060555556
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.453953375,
+        49.492464187500005
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.499423,
+        49.4760836875
+      ]
+    },
+    "properties": {
+      "name": "Feldbahn Landesmuseum für Technik",
+      "color": "#6A27AD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.464490942857143,
+        49.481531242857145
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4855594,
+        49.47099045
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Hbf, W 55 - Mannheim Hbf, W 323",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.435752599999999,
+        49.51643085714287
+      ]
+    },
+    "properties": {
+      "name": "Schiffstankstelle",
+      "color": "#8C56C0"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.469862115384617,
+        49.51376132307692
+      ]
+    },
+    "properties": {
+      "name": "Pro Musik Factory",
+      "color": "#73BE5A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46697492,
+        49.48798548
+      ]
+    },
+    "properties": {
+      "name": "Galeria Kaufhof",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49627115,
+        49.51049293125
+      ]
+    },
+    "properties": {
+      "name": "ALDI SÜD",
+      "color": "#F33540"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.442722764285714,
+        49.47608687857143
+      ]
+    },
+    "properties": {
+      "name": "ISI Diamant GmbH",
+      "color": "#926D38"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.447733215384616,
+        49.476498876923074
+      ]
+    },
+    "properties": {
+      "name": "Wandi Call Shop",
+      "color": "#926D38"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.453863263999999,
+        49.47858516
+      ]
+    },
+    "properties": {
+      "name": "Walzmühle",
+      "color": "#08659D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.470914359999998,
+        49.49597894
+      ]
+    },
+    "properties": {
+      "name": "Lidl",
+      "color": "#9EF80A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.487389273333333,
+        49.466120626666665
+      ]
+    },
+    "properties": {
+      "name": "BMW Niederlassung Mannheim",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.496722029999999,
+        49.450860835
+      ]
+    },
+    "properties": {
+      "name": "Seilwolf Center",
+      "color": "#FC2485"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.473954393333335,
+        49.47750946666666
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Hbf",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471808566666667,
+        49.5128999
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#73BE5A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46964556,
+        49.51135591999999
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#89EABF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.473973966666668,
+        49.51443376666666
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#ED58BC"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.480109721739131,
+        49.520003478260875
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#ED58BC"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48268276875,
+        49.526344818750005
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#9D0143"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5275621875,
+        49.4555334
+      ]
+    },
+    "properties": {
+      "name": "514",
+      "color": "#8526E8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5265933,
+        49.451058700000004
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#EDB38A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518205140000001,
+        49.50856214
+      ]
+    },
+    "properties": {
+      "name": "15",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518100474999999,
+        49.50861940833334
+      ]
+    },
+    "properties": {
+      "name": "13",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.523631600000002,
+        49.45209595
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#EDB38A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518499973333332,
+        49.49958783333333
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#36F2F1"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518989166666666,
+        49.49949854
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#36F2F1"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.522987350000001,
+        49.499064450000006
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#07EA77"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5152509,
+        49.49916363333333
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#36F2F1"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.520362550000002,
+        49.4995249
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#36F2F1"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.515149300000001,
+        49.49920915
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#36F2F1"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.513610175,
+        49.49889975
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#36F2F1"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.501381349999999,
+        49.5049489
+      ]
+    },
+    "properties": {
+      "name": "ABB-Brücke",
+      "color": "#F33540"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5184093625,
+        49.50849888750001
+      ]
+    },
+    "properties": {
+      "name": "18",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.434425826666667,
+        49.48213212666666
+      ]
+    },
+    "properties": {
+      "name": "RHB-Buckel",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.478184875,
+        49.47496845
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48609924,
+        49.47082448
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4314874,
+        49.47999404545455
+      ]
+    },
+    "properties": {
+      "name": "10",
+      "color": "#7906C8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.440402328571428,
+        49.491069757142846
+      ]
+    },
+    "properties": {
+      "name": "751",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.440554477777777,
+        49.49097696666667
+      ]
+    },
+    "properties": {
+      "name": "752",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.441284118181818,
+        49.4903321
+      ]
+    },
+    "properties": {
+      "name": "753",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.441308662500001,
+        49.49036585
+      ]
+    },
+    "properties": {
+      "name": "754",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4420451125,
+        49.4896962375
+      ]
+    },
+    "properties": {
+      "name": "755",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.442286529999999,
+        49.48952929000001
+      ]
+    },
+    "properties": {
+      "name": "756",
+      "color": "#3B9B95"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4396961,
+        49.4924174
+      ]
+    },
+    "properties": {
+      "name": "757",
+      "color": "#EBFC3C"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.483394316666667,
+        49.4718541
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.474361342857142,
+        49.476764485714284
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48451105,
+        49.47141189999999
+      ]
+    },
+    "properties": {
+      "name": "177",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4778474,
+        49.475441350000004
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.480654928571427,
+        49.473692528571426
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.452096744444443,
+        49.47891237777779
+      ]
+    },
+    "properties": {
+      "name": "Ludwigshafen (Rhein) Mitte",
+      "color": "#926D38"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.454715983333335,
+        49.486589
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.454230466666667,
+        49.49411153333333
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.453899325,
+        49.49246745
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5038959,
+        49.46424782857143
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#B4E444"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48672352,
+        49.470439060000004
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Hbf, W 55 - Mannheim Hbf, W 323",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.480601649999999,
+        49.47384201666667
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4784333,
+        49.475049379999994
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.434413876923077,
+        49.482121815384616
+      ]
+    },
+    "properties": {
+      "name": "RHB-Buckel",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.456476066666667,
+        49.499257527777765
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.480707333333333,
+        49.47389429999999
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.508962595000002,
+        49.486932825000004
+      ]
+    },
+    "properties": {
+      "name": "Anschluss Hafen",
+      "color": "#4976DD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.517988336363636,
+        49.508663209090905
+      ]
+    },
+    "properties": {
+      "name": "12",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5184354,
+        49.50916432857143
+      ]
+    },
+    "properties": {
+      "name": "22",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5184842125,
+        49.509229425
+      ]
+    },
+    "properties": {
+      "name": "23",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.518510945454546,
+        49.509014245454544
+      ]
+    },
+    "properties": {
+      "name": "24",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.472365499999999,
+        49.47745535
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4826205,
+        49.472665920000004
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#321F03"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48575425,
+        49.47110802
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.516095766666666,
+        49.45981435555555
+      ]
+    },
+    "properties": {
+      "name": "Mannheim ARENA/Maimarkt Bft",
+      "color": "#D977F8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.495211868571431,
+        49.51287814285714
+      ]
+    },
+    "properties": {
+      "name": "Kinderstraßenbahn",
+      "color": "#EE39E2"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48337223,
+        49.47203852
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Hbf, W 55 - Mannheim Hbf, W 323",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.483164233333333,
+        49.4722879111111
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#321F03"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.482733377777778,
+        49.47229176666667
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#321F03"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.480699633333334,
+        49.47384543333334
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48070565,
+        49.47394995
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48344599,
+        49.472060309999996
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.487019395652174,
+        49.469734213043466
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47026578,
+        49.47842414
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.491341653846153,
+        49.468639861538456
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Hbf, W 55 - Mannheim Hbf, W 323",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.480513449999998,
+        49.473846933333334
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Hbf, W 55 - Mannheim Hbf, W 323",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.486803142857145,
+        49.470477128571424
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Hbf, W 55 - Mannheim Hbf, W 323",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.484045550000001,
+        49.4715773
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45694425,
+        49.4834927
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.458310214285715,
+        49.482696471428575
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.465764833333333,
+        49.50859296666667
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#89EABF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.515805926315787,
+        49.46002391052632
+      ]
+    },
+    "properties": {
+      "name": "Mannheim ARENA/Maimarkt Hp",
+      "color": "#D977F8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.522956375,
+        49.47752675833333
+      ]
+    },
+    "properties": {
+      "name": "Neuostheim Endstelle",
+      "color": "#DB2700"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.502175157142856,
+        49.505283871428574
+      ]
+    },
+    "properties": {
+      "name": "Boveristraße",
+      "color": "#F33540"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.490540116666667,
+        49.49927183333333
+      ]
+    },
+    "properties": {
+      "name": "Grenadierstraße",
+      "color": "#DA97CD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.512608516666667,
+        49.50791622777778
+      ]
+    },
+    "properties": {
+      "name": "Mannheimer Straße",
+      "color": "#C80F52"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471327239999999,
+        49.478572559999996
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.44881735,
+        49.4959688
+      ]
+    },
+    "properties": {
+      "name": "Gleis 14",
+      "color": "#0F8E6F"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4473737,
+        49.4979924
+      ]
+    },
+    "properties": {
+      "name": "Gleis 14",
+      "color": "#0F8E6F"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.501416733333333,
+        49.504917
+      ]
+    },
+    "properties": {
+      "name": "ABB-Brücke",
+      "color": "#F33540"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.505841505555555,
+        49.50698117777777
+      ]
+    },
+    "properties": {
+      "name": "Käfertal Süd",
+      "color": "#8A98B9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4995188325,
+        49.476428459999994
+      ]
+    },
+    "properties": {
+      "name": "Feldbahn Landesmuseum für Technik",
+      "color": "#6A27AD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.485552725000002,
+        49.471309125
+      ]
+    },
+    "properties": {
+      "name": "258",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4608925,
+        49.4821325
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#08659D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45507635,
+        49.485532175
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.488906014285716,
+        49.46750281428571
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48114126111111,
+        49.47329471111111
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.491913746153845,
+        49.46132354615384
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#384642"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.491989253846155,
+        49.46128815384615
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#384642"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4735912,
+        49.477453533333325
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48246981666667,
+        49.53718145666667
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#E2B211"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47623725,
+        49.47624105
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.512615248780488,
+        49.49832672195121
+      ]
+    },
+    "properties": {
+      "name": "Spinelli Barracks",
+      "color": "#36F2F1"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.514670010256411,
+        49.46027445384615
+      ]
+    },
+    "properties": {
+      "name": "Rheintalbahn",
+      "color": "#D977F8"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.489396540000001,
+        49.46985214
+      ]
+    },
+    "properties": {
+      "name": "Riedbahn",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48341897,
+        49.472118110000004
+      ]
+    },
+    "properties": {
+      "name": "Schnellfahrstrecke Mannheim–Stuttgart",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471790799999999,
+        49.47768608
+      ]
+    },
+    "properties": {
+      "name": "Rheinbahn",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.50877577142857,
+        49.51642887142857
+      ]
+    },
+    "properties": {
+      "name": "Hornbach",
+      "color": "#5DAA74"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46053538,
+        49.49627350666666
+      ]
+    },
+    "properties": {
+      "name": "Penny",
+      "color": "#01A337"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.431043466666665,
+        49.45711841111111
+      ]
+    },
+    "properties": {
+      "name": "A.T.U",
+      "color": "#DF2562"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47528787777778,
+        49.50319354444444
+      ]
+    },
+    "properties": {
+      "name": "Kaufland",
+      "color": "#0A0ED4"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.458271411111111,
+        49.47596598888888
+      ]
+    },
+    "properties": {
+      "name": "Ludwigshafener Ruderverein von 1878 e.V.",
+      "color": "#08659D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46568758,
+        49.457128239999996
+      ]
+    },
+    "properties": {
+      "name": "MFC 08 Lindenhof eV.",
+      "color": "#162456"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.526024157142857,
+        49.52686511428571
+      ]
+    },
+    "properties": {
+      "name": "Verein für Deutsche Schäferhunde (SV)",
+      "color": "#25212D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.509780946153844,
+        49.48607433846154
+      ]
+    },
+    "properties": {
+      "name": "Polizei-Sportverein Mannheim e.V.",
+      "color": "#4976DD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.512570566666666,
+        49.485232599999996
+      ]
+    },
+    "properties": {
+      "name": "Deutscher Pudel-Klub e.V. (DPK)",
+      "color": "#A35212"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.434672340000002,
+        49.534509310000004
+      ]
+    },
+    "properties": {
+      "name": "Schießstand der Jägervereinigung Mannheim e.V.",
+      "color": "#41AC44"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.511326971428572,
+        49.49050972857143
+      ]
+    },
+    "properties": {
+      "name": "Schützengesellschaft 1744 Mannheim",
+      "color": "#4976DD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.51742475,
+        49.513836281250015
+      ]
+    },
+    "properties": {
+      "name": "DJK Sportzentrum",
+      "color": "#98A28A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48964845,
+        49.4474837
+      ]
+    },
+    "properties": {
+      "name": "Hallenbad Neckarau",
+      "color": "#35B245"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.510322454545452,
+        49.44512820909092
+      ]
+    },
+    "properties": {
+      "name": "Autohaus Röll GmbH",
+      "color": "#723E65"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.508413384210527,
+        49.45639306842105
+      ]
+    },
+    "properties": {
+      "name": "Willenborg  Floristen- und Dekorationsbedarf",
+      "color": "#D6B871"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.484436075,
+        49.47350469166667
+      ]
+    },
+    "properties": {
+      "name": "Autohaus Zschernitz GmbH",
+      "color": "#321F03"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5014298,
+        49.45092382
+      ]
+    },
+    "properties": {
+      "name": "Expert Esch",
+      "color": "#FC2485"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.50330897142857,
+        49.45054697142858
+      ]
+    },
+    "properties": {
+      "name": "Autoteile Krammer GmbH",
+      "color": "#723E65"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.471641750000002,
+        49.48421053333334
+      ]
+    },
+    "properties": {
+      "name": "Saturn",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47697281818182,
+        49.47343717272727
+      ]
+    },
+    "properties": {
+      "name": "Autohaus Keller e.K.",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5049952,
+        49.513303449999995
+      ]
+    },
+    "properties": {
+      "name": "Villa tectona GmbH Gartenmöbel",
+      "color": "#5DAA74"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.487348128571428,
+        49.453498707142856
+      ]
+    },
+    "properties": {
+      "name": "Auto Kress KG",
+      "color": "#384642"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.505035412500002,
+        49.475216625
+      ]
+    },
+    "properties": {
+      "name": "Wäscherei Kreiß",
+      "color": "#D0EBCF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48809952,
+        49.46502384
+      ]
+    },
+    "properties": {
+      "name": "E neukauf Neckarau",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.525953624999998,
+        49.50734463333333
+      ]
+    },
+    "properties": {
+      "name": "Edeka neukauf",
+      "color": "#BC0A99"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.513156377272724,
+        49.45136538636364
+      ]
+    },
+    "properties": {
+      "name": "Poco",
+      "color": "#CD619A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.502787766666668,
+        49.458666711111114
+      ]
+    },
+    "properties": {
+      "name": "Aldi Süd",
+      "color": "#D6B871"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.501978,
+        49.45830166666666
+      ]
+    },
+    "properties": {
+      "name": "Metro Getränkemarkt",
+      "color": "#8E2370"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.499507099999999,
+        49.45925012
+      ]
+    },
+    "properties": {
+      "name": "METRO Großmarkt",
+      "color": "#8E2370"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48995113888889,
+        49.46269056666667
+      ]
+    },
+    "properties": {
+      "name": "Auto Ihm GmbH & Co. KG",
+      "color": "#9DFD37"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.474366876923078,
+        49.48326726153846
+      ]
+    },
+    "properties": {
+      "name": "Maritim Parkhotel",
+      "color": "#DF900D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46162425,
+        49.49113405999999
+      ]
+    },
+    "properties": {
+      "name": "Mercure Hotel Mannheim am Rathaus",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48762054,
+        49.478940200000004
+      ]
+    },
+    "properties": {
+      "name": "Kunstverein",
+      "color": "#321F03"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.459462424000002,
+        49.44177082
+      ]
+    },
+    "properties": {
+      "name": "Wasser- und Campingclub Mannheim Ludwigshafen",
+      "color": "#CADB84"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.458994683333335,
+        49.43790431666667
+      ]
+    },
+    "properties": {
+      "name": "Camping-Freunde am Kiefschen Weiher",
+      "color": "#CADB84"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46663495,
+        49.43867410833332
+      ]
+    },
+    "properties": {
+      "name": "1. Ludwigshafener Naherholungsverein Kiefweiher e.V.",
+      "color": "#F07393"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.476461921052632,
+        49.485736284210525
+      ]
+    },
+    "properties": {
+      "name": "Dorint",
+      "color": "#DF900D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.461107141176472,
+        49.48797519117646
+      ]
+    },
+    "properties": {
+      "name": "Museum Zeughaus",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43559683043478,
+        49.47869935652173
+      ]
+    },
+    "properties": {
+      "name": "Best Western Leoso Hotel",
+      "color": "#248C79"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.496087181250001,
+        49.481791896874995
+      ]
+    },
+    "properties": {
+      "name": "Pflanzenschauhaus",
+      "color": "#6A27AD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.464311444444444,
+        49.47674893333333
+      ]
+    },
+    "properties": {
+      "name": "Jugendherberge Mannheim",
+      "color": "#5F3B24"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.445658035294118,
+        49.449687658823535
+      ]
+    },
+    "properties": {
+      "name": "Campingplatz Strandbad Mannheim",
+      "color": "#B2673E"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4642994,
+        49.49006188
+      ]
+    },
+    "properties": {
+      "name": "Wyndham Mannheim Hotel",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.497391514814815,
+        49.47642508703703
+      ]
+    },
+    "properties": {
+      "name": "Technoseum",
+      "color": "#6A27AD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46200404117647,
+        49.488832947058825
+      ]
+    },
+    "properties": {
+      "name": "Reiss-Engelhorn-Museum",
+      "color": "#202FD9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47545594,
+        49.47949522
+      ]
+    },
+    "properties": {
+      "name": "Best Western Delta Park Hotel",
+      "color": "#7FCF4D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.493952471428571,
+        49.47883702142856
+      ]
+    },
+    "properties": {
+      "name": "Park Inn by Radisson Mannheim",
+      "color": "#6A27AD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.52975729375,
+        49.476149687500005
+      ]
+    },
+    "properties": {
+      "name": "Camping Neuostheim",
+      "color": "#DB2700"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.44903172,
+        49.443293280000006
+      ]
+    },
+    "properties": {
+      "name": "Auwald am Kiefweiher",
+      "color": "#B2673E"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.462464877777776,
+        49.487742466666674
+      ]
+    },
+    "properties": {
+      "name": "Museum Bassermannhaus für Musik und Kunst",
+      "color": "#E78913"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.495673641666666,
+        49.48344616666666
+      ]
+    },
+    "properties": {
+      "name": "Seebühne",
+      "color": "#6AB173"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.525540860000001,
+        49.5312193
+      ]
+    },
+    "properties": {
+      "name": "Kneipp-Anlage",
+      "color": "#25212D"
+    }
+  },
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/University"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.452434568749998, 49.482161024999996],
+		        [8.46243456875, 49.482161024999996],
+		        [8.46243456875, 49.492161025],
+		        [8.452434568749998, 49.492161025],
+		        [8.452434568749998, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.422434568749999, 49.482161024999996],
+		        [8.43243456875, 49.482161024999996],
+		        [8.43243456875, 49.492161025],
+		        [8.422434568749999, 49.492161025],
+		        [8.422434568749999, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.422434568749999, 49.46216102499999],
+		        [8.43243456875, 49.46216102499999],
+		        [8.43243456875, 49.472161025],
+		        [8.422434568749999, 49.472161025],
+		        [8.422434568749999, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432434568749999, 49.482161024999996],
+		        [8.44243456875, 49.482161024999996],
+		        [8.44243456875, 49.492161025],
+		        [8.432434568749999, 49.492161025],
+		        [8.432434568749999, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432434568749999, 49.472161025],
+		        [8.44243456875, 49.472161025],
+		        [8.44243456875, 49.482161025],
+		        [8.432434568749999, 49.482161025],
+		        [8.432434568749999, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/University"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.472161025],
+		        [8.47243456875, 49.472161025],
+		        [8.47243456875, 49.482161025],
+		        [8.462434568749998, 49.482161025],
+		        [8.462434568749998, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50243456875, 49.472161025],
+		        [8.51243456875, 49.472161025],
+		        [8.51243456875, 49.482161025],
+		        [8.50243456875, 49.482161025],
+		        [8.50243456875, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.482161024999996],
+		        [8.50243456875, 49.482161024999996],
+		        [8.50243456875, 49.492161025],
+		        [8.492434568749998, 49.492161025],
+		        [8.492434568749998, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/SportThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50243456875, 49.482161024999996],
+		        [8.51243456875, 49.482161024999996],
+		        [8.51243456875, 49.492161025],
+		        [8.50243456875, 49.492161025],
+		        [8.50243456875, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.492161024999994],
+		        [8.47243456875, 49.492161024999994],
+		        [8.47243456875, 49.502161025],
+		        [8.462434568749998, 49.502161025],
+		        [8.462434568749998, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.452161024999995],
+		        [8.49243456875, 49.452161024999995],
+		        [8.49243456875, 49.462161025],
+		        [8.482434568749998, 49.462161025],
+		        [8.482434568749998, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Hospital"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.492161024999994],
+		        [8.49243456875, 49.492161024999994],
+		        [8.49243456875, 49.502161025],
+		        [8.482434568749998, 49.502161025],
+		        [8.482434568749998, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.442161025],
+		        [8.50243456875, 49.442161025],
+		        [8.50243456875, 49.452161025],
+		        [8.492434568749998, 49.452161025],
+		        [8.492434568749998, 49.442161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.53216102499999],
+		        [8.50243456875, 49.53216102499999],
+		        [8.50243456875, 49.542161025],
+		        [8.492434568749998, 49.542161025],
+		        [8.492434568749998, 49.53216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.452434568749998, 49.472161025],
+		        [8.46243456875, 49.472161025],
+		        [8.46243456875, 49.482161025],
+		        [8.452434568749998, 49.482161025],
+		        [8.452434568749998, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.502161025],
+		        [8.47243456875, 49.502161025],
+		        [8.47243456875, 49.512161025000005],
+		        [8.462434568749998, 49.512161025000005],
+		        [8.462434568749998, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.482161024999996],
+		        [8.47243456875, 49.482161024999996],
+		        [8.47243456875, 49.492161025],
+		        [8.462434568749998, 49.492161025],
+		        [8.462434568749998, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.472434568749998, 49.492161024999994],
+		        [8.48243456875, 49.492161024999994],
+		        [8.48243456875, 49.502161025],
+		        [8.472434568749998, 49.502161025],
+		        [8.472434568749998, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.522434568749999, 49.502161025],
+		        [8.53243456875, 49.502161025],
+		        [8.53243456875, 49.512161025000005],
+		        [8.522434568749999, 49.512161025000005],
+		        [8.522434568749999, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.46216102499999],
+		        [8.49243456875, 49.46216102499999],
+		        [8.49243456875, 49.472161025],
+		        [8.482434568749998, 49.472161025],
+		        [8.482434568749998, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/TourismThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.472434568749998, 49.482161024999996],
+		        [8.48243456875, 49.482161024999996],
+		        [8.48243456875, 49.492161025],
+		        [8.472434568749998, 49.492161025],
+		        [8.472434568749998, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.452434568749998, 49.492161024999994],
+		        [8.46243456875, 49.492161024999994],
+		        [8.46243456875, 49.502161025],
+		        [8.452434568749998, 49.502161025],
+		        [8.452434568749998, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.46216102499999],
+		        [8.47243456875, 49.46216102499999],
+		        [8.47243456875, 49.472161025],
+		        [8.462434568749998, 49.472161025],
+		        [8.462434568749998, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.472434568749998, 49.472161025],
+		        [8.48243456875, 49.472161025],
+		        [8.48243456875, 49.482161025],
+		        [8.472434568749998, 49.482161025],
+		        [8.472434568749998, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.452161024999995],
+		        [8.47243456875, 49.452161024999995],
+		        [8.47243456875, 49.462161025],
+		        [8.462434568749998, 49.462161025],
+		        [8.462434568749998, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.472161025],
+		        [8.49243456875, 49.472161025],
+		        [8.49243456875, 49.482161025],
+		        [8.482434568749998, 49.482161025],
+		        [8.482434568749998, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50243456875, 49.46216102499999],
+		        [8.51243456875, 49.46216102499999],
+		        [8.51243456875, 49.472161025],
+		        [8.50243456875, 49.472161025],
+		        [8.50243456875, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.472434568749998, 49.522161024999996],
+		        [8.48243456875, 49.522161024999996],
+		        [8.48243456875, 49.532161025],
+		        [8.472434568749998, 49.532161025],
+		        [8.472434568749998, 49.522161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/TourismThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.472161025],
+		        [8.50243456875, 49.472161025],
+		        [8.50243456875, 49.482161025],
+		        [8.492434568749998, 49.482161025],
+		        [8.492434568749998, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.512161025],
+		        [8.52243456875, 49.512161025],
+		        [8.52243456875, 49.522161025],
+		        [8.512434568749999, 49.522161025],
+		        [8.512434568749999, 49.512161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.452434568749998, 49.502161025],
+		        [8.46243456875, 49.502161025],
+		        [8.46243456875, 49.512161025000005],
+		        [8.452434568749998, 49.512161025000005],
+		        [8.452434568749998, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.522434568749999, 49.512161025],
+		        [8.53243456875, 49.512161025],
+		        [8.53243456875, 49.522161025],
+		        [8.522434568749999, 49.522161025],
+		        [8.522434568749999, 49.512161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.522434568749999, 49.432161025],
+		        [8.53243456875, 49.432161025],
+		        [8.53243456875, 49.442161025000004],
+		        [8.522434568749999, 49.442161025000004],
+		        [8.522434568749999, 49.432161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.482161024999996],
+		        [8.49243456875, 49.482161024999996],
+		        [8.49243456875, 49.492161025],
+		        [8.482434568749998, 49.492161025],
+		        [8.482434568749998, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.442434568749999, 49.46216102499999],
+		        [8.45243456875, 49.46216102499999],
+		        [8.45243456875, 49.472161025],
+		        [8.442434568749999, 49.472161025],
+		        [8.442434568749999, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.442434568749999, 49.472161025],
+		        [8.45243456875, 49.472161025],
+		        [8.45243456875, 49.482161025],
+		        [8.442434568749999, 49.482161025],
+		        [8.442434568749999, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.472434568749998, 49.452161024999995],
+		        [8.48243456875, 49.452161024999995],
+		        [8.48243456875, 49.462161025],
+		        [8.472434568749998, 49.462161025],
+		        [8.472434568749998, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432434568749999, 49.46216102499999],
+		        [8.44243456875, 49.46216102499999],
+		        [8.44243456875, 49.472161025],
+		        [8.432434568749999, 49.472161025],
+		        [8.432434568749999, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.442161025],
+		        [8.47243456875, 49.442161025],
+		        [8.47243456875, 49.452161025],
+		        [8.462434568749998, 49.452161025],
+		        [8.462434568749998, 49.442161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.472434568749998, 49.442161025],
+		        [8.48243456875, 49.442161025],
+		        [8.48243456875, 49.452161025],
+		        [8.472434568749998, 49.452161025],
+		        [8.472434568749998, 49.442161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.472434568749998, 49.512161025],
+		        [8.48243456875, 49.512161025],
+		        [8.48243456875, 49.522161025],
+		        [8.472434568749998, 49.522161025],
+		        [8.472434568749998, 49.512161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.522161024999996],
+		        [8.50243456875, 49.522161024999996],
+		        [8.50243456875, 49.532161025],
+		        [8.492434568749998, 49.532161025],
+		        [8.492434568749998, 49.522161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.422434568749999, 49.472161025],
+		        [8.43243456875, 49.472161025],
+		        [8.43243456875, 49.482161025],
+		        [8.422434568749999, 49.482161025],
+		        [8.422434568749999, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.472434568749998, 49.502161025],
+		        [8.48243456875, 49.502161025],
+		        [8.48243456875, 49.512161025000005],
+		        [8.472434568749998, 49.512161025000005],
+		        [8.472434568749998, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.452161024999995],
+		        [8.50243456875, 49.452161024999995],
+		        [8.50243456875, 49.462161025],
+		        [8.492434568749998, 49.462161025],
+		        [8.492434568749998, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.472161025],
+		        [8.52243456875, 49.472161025],
+		        [8.52243456875, 49.482161025],
+		        [8.512434568749999, 49.482161025],
+		        [8.512434568749999, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50243456875, 49.492161024999994],
+		        [8.51243456875, 49.492161024999994],
+		        [8.51243456875, 49.502161025],
+		        [8.50243456875, 49.502161025],
+		        [8.50243456875, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/School"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.53216102499999],
+		        [8.49243456875, 49.53216102499999],
+		        [8.49243456875, 49.542161025],
+		        [8.482434568749998, 49.542161025],
+		        [8.482434568749998, 49.53216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.502161025],
+		        [8.49243456875, 49.502161025],
+		        [8.49243456875, 49.512161025000005],
+		        [8.482434568749998, 49.512161025000005],
+		        [8.482434568749998, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50243456875, 49.442161025],
+		        [8.51243456875, 49.442161025],
+		        [8.51243456875, 49.452161025],
+		        [8.50243456875, 49.452161025],
+		        [8.50243456875, 49.442161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.492161024999994],
+		        [8.50243456875, 49.492161024999994],
+		        [8.50243456875, 49.502161025],
+		        [8.492434568749998, 49.502161025],
+		        [8.492434568749998, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/TourismThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.53216102499999],
+		        [8.52243456875, 49.53216102499999],
+		        [8.52243456875, 49.542161025],
+		        [8.512434568749999, 49.542161025],
+		        [8.512434568749999, 49.53216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.442434568749999, 49.452161024999995],
+		        [8.45243456875, 49.452161024999995],
+		        [8.45243456875, 49.462161025],
+		        [8.442434568749999, 49.462161025],
+		        [8.442434568749999, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.452434568749998, 49.442161025],
+		        [8.46243456875, 49.442161025],
+		        [8.46243456875, 49.452161025],
+		        [8.452434568749998, 49.452161025],
+		        [8.452434568749998, 49.442161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/HistoricThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.422434568749999, 49.492161024999994],
+		        [8.43243456875, 49.492161024999994],
+		        [8.43243456875, 49.502161025],
+		        [8.422434568749999, 49.502161025],
+		        [8.422434568749999, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.452434568749998, 49.46216102499999],
+		        [8.46243456875, 49.46216102499999],
+		        [8.46243456875, 49.472161025],
+		        [8.452434568749998, 49.472161025],
+		        [8.452434568749998, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.522161024999996],
+		        [8.52243456875, 49.522161024999996],
+		        [8.52243456875, 49.532161025],
+		        [8.512434568749999, 49.532161025],
+		        [8.512434568749999, 49.522161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50243456875, 49.522161024999996],
+		        [8.51243456875, 49.522161024999996],
+		        [8.51243456875, 49.532161025],
+		        [8.50243456875, 49.532161025],
+		        [8.50243456875, 49.522161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.512161025],
+		        [8.47243456875, 49.512161025],
+		        [8.47243456875, 49.522161025],
+		        [8.462434568749998, 49.522161025],
+		        [8.462434568749998, 49.512161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.46216102499999],
+		        [8.52243456875, 49.46216102499999],
+		        [8.52243456875, 49.472161025],
+		        [8.512434568749999, 49.472161025],
+		        [8.512434568749999, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50243456875, 49.452161024999995],
+		        [8.51243456875, 49.452161024999995],
+		        [8.51243456875, 49.462161025],
+		        [8.50243456875, 49.462161025],
+		        [8.50243456875, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.522434568749999, 49.492161024999994],
+		        [8.53243456875, 49.492161024999994],
+		        [8.53243456875, 49.502161025],
+		        [8.522434568749999, 49.502161025],
+		        [8.522434568749999, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/SportThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.482161024999996],
+		        [8.52243456875, 49.482161024999996],
+		        [8.52243456875, 49.492161025],
+		        [8.512434568749999, 49.492161025],
+		        [8.512434568749999, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.522434568749999, 49.46216102499999],
+		        [8.53243456875, 49.46216102499999],
+		        [8.53243456875, 49.472161025],
+		        [8.522434568749999, 49.472161025],
+		        [8.522434568749999, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/TourismThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.452434568749998, 49.432161025],
+		        [8.46243456875, 49.432161025],
+		        [8.46243456875, 49.442161025000004],
+		        [8.452434568749998, 49.442161025000004],
+		        [8.452434568749998, 49.432161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.432161025],
+		        [8.47243456875, 49.432161025],
+		        [8.47243456875, 49.442161025000004],
+		        [8.462434568749998, 49.442161025000004],
+		        [8.462434568749998, 49.432161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.472434568749998, 49.46216102499999],
+		        [8.48243456875, 49.46216102499999],
+		        [8.48243456875, 49.472161025],
+		        [8.472434568749998, 49.472161025],
+		        [8.472434568749998, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.512161025],
+		        [8.50243456875, 49.512161025],
+		        [8.50243456875, 49.522161025],
+		        [8.492434568749998, 49.522161025],
+		        [8.492434568749998, 49.512161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.522161024999996],
+		        [8.49243456875, 49.522161024999996],
+		        [8.49243456875, 49.532161025],
+		        [8.482434568749998, 49.532161025],
+		        [8.482434568749998, 49.522161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/SportThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.442161025],
+		        [8.49243456875, 49.442161025],
+		        [8.49243456875, 49.452161025],
+		        [8.482434568749998, 49.452161025],
+		        [8.482434568749998, 49.442161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.442434568749999, 49.522161024999996],
+		        [8.45243456875, 49.522161024999996],
+		        [8.45243456875, 49.532161025],
+		        [8.442434568749999, 49.532161025],
+		        [8.442434568749999, 49.522161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.442434568749999, 49.502161025],
+		        [8.45243456875, 49.502161025],
+		        [8.45243456875, 49.512161025000005],
+		        [8.442434568749999, 49.512161025000005],
+		        [8.442434568749999, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.482434568749998, 49.512161025],
+		        [8.49243456875, 49.512161025],
+		        [8.49243456875, 49.522161025],
+		        [8.482434568749998, 49.522161025],
+		        [8.482434568749998, 49.512161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432434568749999, 49.452161024999995],
+		        [8.44243456875, 49.452161024999995],
+		        [8.44243456875, 49.462161025],
+		        [8.432434568749999, 49.462161025],
+		        [8.432434568749999, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.452434568749998, 49.512161025],
+		        [8.46243456875, 49.512161025],
+		        [8.46243456875, 49.522161025],
+		        [8.452434568749998, 49.522161025],
+		        [8.452434568749998, 49.512161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.432161025],
+		        [8.50243456875, 49.432161025],
+		        [8.50243456875, 49.442161025000004],
+		        [8.492434568749998, 49.442161025000004],
+		        [8.492434568749998, 49.432161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.522434568749999, 49.442161025],
+		        [8.53243456875, 49.442161025],
+		        [8.53243456875, 49.452161025],
+		        [8.522434568749999, 49.452161025],
+		        [8.522434568749999, 49.442161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Leisure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.422434568749999, 49.432161025],
+		        [8.43243456875, 49.432161025],
+		        [8.43243456875, 49.442161025000004],
+		        [8.422434568749999, 49.442161025000004],
+		        [8.422434568749999, 49.432161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.41243456875, 49.502161025],
+		        [8.42243456875, 49.502161025],
+		        [8.42243456875, 49.512161025000005],
+		        [8.41243456875, 49.512161025000005],
+		        [8.41243456875, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.442434568749999, 49.492161024999994],
+		        [8.45243456875, 49.492161024999994],
+		        [8.45243456875, 49.502161025],
+		        [8.442434568749999, 49.502161025],
+		        [8.442434568749999, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.442434568749999, 49.482161024999996],
+		        [8.45243456875, 49.482161024999996],
+		        [8.45243456875, 49.492161025],
+		        [8.442434568749999, 49.492161025],
+		        [8.442434568749999, 49.482161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/ManMadeThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.462434568749998, 49.53216102499999],
+		        [8.47243456875, 49.53216102499999],
+		        [8.47243456875, 49.542161025],
+		        [8.462434568749998, 49.542161025],
+		        [8.462434568749998, 49.53216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.502161025],
+		        [8.50243456875, 49.502161025],
+		        [8.50243456875, 49.512161025000005],
+		        [8.492434568749998, 49.512161025000005],
+		        [8.492434568749998, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.492434568749998, 49.46216102499999],
+		        [8.50243456875, 49.46216102499999],
+		        [8.50243456875, 49.472161025],
+		        [8.492434568749998, 49.472161025],
+		        [8.492434568749998, 49.46216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.452161024999995],
+		        [8.52243456875, 49.452161024999995],
+		        [8.52243456875, 49.462161025],
+		        [8.512434568749999, 49.462161025],
+		        [8.512434568749999, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.492161024999994],
+		        [8.52243456875, 49.492161024999994],
+		        [8.52243456875, 49.502161025],
+		        [8.512434568749999, 49.502161025],
+		        [8.512434568749999, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.502161025],
+		        [8.52243456875, 49.502161025],
+		        [8.52243456875, 49.512161025000005],
+		        [8.512434568749999, 49.512161025000005],
+		        [8.512434568749999, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432434568749999, 49.512161025],
+		        [8.44243456875, 49.512161025],
+		        [8.44243456875, 49.522161025],
+		        [8.432434568749999, 49.522161025],
+		        [8.432434568749999, 49.512161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.522434568749999, 49.452161024999995],
+		        [8.53243456875, 49.452161024999995],
+		        [8.53243456875, 49.462161025],
+		        [8.522434568749999, 49.462161025],
+		        [8.522434568749999, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432434568749999, 49.492161024999994],
+		        [8.44243456875, 49.492161024999994],
+		        [8.44243456875, 49.502161025],
+		        [8.432434568749999, 49.502161025],
+		        [8.432434568749999, 49.492161024999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/TourismThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.522434568749999, 49.472161025],
+		        [8.53243456875, 49.472161025],
+		        [8.53243456875, 49.482161025],
+		        [8.522434568749999, 49.482161025],
+		        [8.522434568749999, 49.472161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/RailwayThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50243456875, 49.502161025],
+		        [8.51243456875, 49.502161025],
+		        [8.51243456875, 49.512161025000005],
+		        [8.50243456875, 49.512161025000005],
+		        [8.50243456875, 49.502161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50243456875, 49.512161025],
+		        [8.51243456875, 49.512161025],
+		        [8.51243456875, 49.522161025],
+		        [8.50243456875, 49.522161025],
+		        [8.50243456875, 49.512161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.422434568749999, 49.452161024999995],
+		        [8.43243456875, 49.452161024999995],
+		        [8.43243456875, 49.462161025],
+		        [8.422434568749999, 49.462161025],
+		        [8.422434568749999, 49.452161024999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/TourismThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.522434568749999, 49.522161024999996],
+		        [8.53243456875, 49.522161024999996],
+		        [8.53243456875, 49.532161025],
+		        [8.522434568749999, 49.532161025],
+		        [8.522434568749999, 49.522161024999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/SportThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432434568749999, 49.53216102499999],
+		        [8.44243456875, 49.53216102499999],
+		        [8.44243456875, 49.542161025],
+		        [8.432434568749999, 49.542161025],
+		        [8.432434568749999, 49.53216102499999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/Shop"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.512434568749999, 49.442161025],
+		        [8.52243456875, 49.442161025],
+		        [8.52243456875, 49.452161025],
+		        [8.512434568749999, 49.452161025],
+		        [8.512434568749999, 49.442161025]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://linkedgeodata.org/ontology/TourismThing"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.442434568749999, 49.442161025],
+		        [8.45243456875, 49.442161025],
+		        [8.45243456875, 49.452161025],
+		        [8.442434568749999, 49.452161025],
+		        [8.442434568749999, 49.442161025]
+		      ]
+		    ]
+		  }
+		}]
+		}

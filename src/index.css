@@ -13,13 +13,13 @@ code {
     monospace;
 }
 
-#map {
+.map {
   height: 100vh;
   width: 100%;
   z-index: 0;
 }
 
-#content {
+.content {
   position: absolute;
   z-index: 1;
   right: 16px;
@@ -27,12 +27,12 @@ code {
   margin-top: 8px;
 }
 
-#modal-buttons {
+.modal-buttons {
   float: right;
   margin-top: 16px;
 }
 
-#modal-buttons-child {
+.modal-buttons-child {
   flex-direction: column;
   display: flex;
   margin-top: 8px;
@@ -52,7 +52,7 @@ code {
   padding: 8px;
 }
 
-#search-bar {
+.search-bar {
   background-color: white;
   padding: 8px;
   padding-right: 16px;
@@ -64,29 +64,29 @@ code {
   border-radius: 8px;
 }
 
-#search-text {
+.search-text {
   border: none;
   font-weight: bold;
   font-size: 16pt;
   text-align: center;
 }
 
-#search-text:focus {
+.search-text:focus {
   outline: none;
   text-align: center;
 }
 
-#submit-button {
+.submit-button {
   background-color: white;
   border: none;
   padding: 0;
   font-size: 16pt;
 }
 
-#submit-button:focus {
+.submit-button:focus {
   outline: none;
 }
 
-#submit-button:hover {
+.submit-button:hover {
   cursor: pointer;
 }

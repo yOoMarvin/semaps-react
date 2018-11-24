@@ -1,0 +1,1010 @@
+{"type": "FeatureCollection",
+		  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47722,
+        49.4847
+      ]
+    },
+    "properties": {
+      "name": "Mannheimer Rosengarten",
+      "color": "#04CAC9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.51417,
+        49.4725
+      ]
+    },
+    "properties": {
+      "name": "Mannheim City Airport",
+      "color": "#580748"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47528,
+        49.4828
+      ]
+    },
+    "properties": {
+      "name": "Kunsthalle Mannheim",
+      "color": "#04CAC9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.44139,
+        49.4683
+      ]
+    },
+    "properties": {
+      "name": "Südweststadion",
+      "color": "#DB4F07"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46278,
+        49.5631
+      ]
+    },
+    "properties": {
+      "name": "Coleman Army Airfield",
+      "color": "#A3AB6A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5175,
+        49.4636
+      ]
+    },
+    "properties": {
+      "name": "SAP Arena",
+      "color": "#0486FD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.462,
+        49.483
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Palace",
+      "color": "#24CD5B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46212,
+        49.4889
+      ]
+    },
+    "properties": {
+      "name": "Reiss Engelhorn Museum",
+      "color": "#24CD5B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4325,
+        49.4964
+      ]
+    },
+    "properties": {
+      "name": "BASF",
+      "color": "#3A6B9B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5025,
+        49.4794
+      ]
+    },
+    "properties": {
+      "name": "Carl-Benz-Stadion",
+      "color": "#23ADB2"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46362,
+        49.4831
+      ]
+    },
+    "properties": {
+      "name": "Mannheim University Library",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5804,
+        49.4487
+      ]
+    },
+    "properties": {
+      "name": "Mannheim-Friedrichsfeld station",
+      "color": "#FEFF98"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.44611,
+        49.4794
+      ]
+    },
+    "properties": {
+      "name": "Pfalzbau",
+      "color": "#252B36"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43417,
+        49.4778
+      ]
+    },
+    "properties": {
+      "name": "Ludwigshafen (Rhein) Hauptbahnhof",
+      "color": "#3DEEBF"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45306,
+        49.4792
+      ]
+    },
+    "properties": {
+      "name": "Ludwigshafen (Rhein) Mitte station",
+      "color": "#A8C532"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46972,
+        49.4797
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Hauptbahnhof",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4525,
+        49.4733
+      ]
+    },
+    "properties": {
+      "name": "Geschwister-Scholl-Gymnasium Ludwigshafen",
+      "color": "#A8C532"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46139,
+        49.4942
+      ]
+    },
+    "properties": {
+      "name": "Yavuz Sultan Selim Mosque",
+      "color": "#1C39A7"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.59667,
+        49.4744
+      ]
+    },
+    "properties": {
+      "name": "Automuseum Dr. Carl Benz",
+      "color": "#10FD7D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48528,
+        49.5331
+      ]
+    },
+    "properties": {
+      "name": "Seppl-Herberger-Stadion",
+      "color": "#29B0B7"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.43217,
+        49.496
+      ]
+    },
+    "properties": {
+      "name": "Friedrich-Engelhorn-Hochhaus",
+      "color": "#B40695"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4658,
+        49.4819
+      ]
+    },
+    "properties": {
+      "name": "Zentrum für Europäische Wirtschaftsforschung",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.47528,
+        49.4828
+      ]
+    },
+    "properties": {
+      "name": "Kunsthalle Mannheim",
+      "color": "#04CAC9"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.49755,
+        49.4764
+      ]
+    },
+    "properties": {
+      "name": "Technoseum",
+      "color": "#0EB6AC"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.44139,
+        49.4683
+      ]
+    },
+    "properties": {
+      "name": "Südweststadion",
+      "color": "#DB4F07"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4647,
+        49.4832
+      ]
+    },
+    "properties": {
+      "name": "University of Mannheim",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48221,
+        49.4696
+      ]
+    },
+    "properties": {
+      "name": "Mannheim University of Applied Sciences",
+      "color": "#1E3FBB"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.446,
+        49.4805
+      ]
+    },
+    "properties": {
+      "name": "Ludwigshafen University of Applied Sciences",
+      "color": "#0D849A"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5175,
+        49.4636
+      ]
+    },
+    "properties": {
+      "name": "SAP Arena",
+      "color": "#0486FD"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46212,
+        49.4889
+      ]
+    },
+    "properties": {
+      "name": "Reiss Engelhorn Museum",
+      "color": "#24CD5B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.5025,
+        49.4794
+      ]
+    },
+    "properties": {
+      "name": "Carl-Benz-Stadion",
+      "color": "#23ADB2"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.45806,
+        49.4856
+      ]
+    },
+    "properties": {
+      "name": "Eisstadion am Friedrichspark",
+      "color": "#24CD5B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46362,
+        49.4831
+      ]
+    },
+    "properties": {
+      "name": "Mannheim University Library",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4708,
+        49.4838
+      ]
+    },
+    "properties": {
+      "name": "Hochschule für Musik und Darstellende Kunst Mannheim",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4572,
+        49.4964
+      ]
+    },
+    "properties": {
+      "name": "Popakademie Baden-Württemberg",
+      "color": "#1C39A7"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4647,
+        49.4832
+      ]
+    },
+    "properties": {
+      "name": "Mannheim Business School",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4629,
+        49.4857
+      ]
+    },
+    "properties": {
+      "name": "GESIS – Leibniz Institute for the Social Sciences",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.461,
+        49.486
+      ]
+    },
+    "properties": {
+      "name": "Jesuit Church, Mannheim",
+      "color": "#24CD5B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4129,
+        49.4914
+      ]
+    },
+    "properties": {
+      "name": "Friedrich-Ebert-Halle",
+      "color": "#72D48B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.46139,
+        49.4942
+      ]
+    },
+    "properties": {
+      "name": "Yavuz Sultan Selim Mosque",
+      "color": "#1C39A7"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.472,
+        49.4882
+      ]
+    },
+    "properties": {
+      "name": "IDS – Institute of German Language",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.462,
+        49.483
+      ]
+    },
+    "properties": {
+      "name": "Palais Bretzenheim",
+      "color": "#24CD5B"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.59667,
+        49.4744
+      ]
+    },
+    "properties": {
+      "name": "Automuseum Dr. Carl Benz",
+      "color": "#10FD7D"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.4647,
+        49.4832
+      ]
+    },
+    "properties": {
+      "name": "Graduate School of Economic and Social Sciences",
+      "color": "#C896F3"
+    }
+  },
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.48528,
+        49.5331
+      ]
+    },
+    "properties": {
+      "name": "Seppl-Herberger-Stadion",
+      "color": "#29B0B7"
+    }
+  },
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/Building"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.47222, 49.479699999999994],
+		        [8.482220000000002, 49.479699999999994],
+		        [8.482220000000002, 49.4897],
+		        [8.47222, 49.4897],
+		        [8.47222, 49.479699999999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.51222, 49.469699999999996],
+		        [8.52222, 49.469699999999996],
+		        [8.52222, 49.4797],
+		        [8.51222, 49.4797],
+		        [8.51222, 49.469699999999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432220000000001, 49.45969999999999],
+		        [8.442220000000002, 49.45969999999999],
+		        [8.442220000000002, 49.469699999999996],
+		        [8.432220000000001, 49.469699999999996],
+		        [8.432220000000001, 49.45969999999999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.46222, 49.55969999999999],
+		        [8.472220000000002, 49.55969999999999],
+		        [8.472220000000002, 49.5697],
+		        [8.46222, 49.5697],
+		        [8.46222, 49.55969999999999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.51222, 49.45969999999999],
+		        [8.52222, 49.45969999999999],
+		        [8.52222, 49.469699999999996],
+		        [8.51222, 49.469699999999996],
+		        [8.51222, 49.45969999999999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/Building"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.45222, 49.479699999999994],
+		        [8.462220000000002, 49.479699999999994],
+		        [8.462220000000002, 49.4897],
+		        [8.45222, 49.4897],
+		        [8.45222, 49.479699999999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/Company"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432220000000001, 49.48969999999999],
+		        [8.442220000000002, 49.48969999999999],
+		        [8.442220000000002, 49.4997],
+		        [8.432220000000001, 49.4997],
+		        [8.432220000000001, 49.48969999999999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.50222, 49.469699999999996],
+		        [8.512220000000001, 49.469699999999996],
+		        [8.512220000000001, 49.4797],
+		        [8.50222, 49.4797],
+		        [8.50222, 49.469699999999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/University"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.46222, 49.479699999999994],
+		        [8.472220000000002, 49.479699999999994],
+		        [8.472220000000002, 49.4897],
+		        [8.46222, 49.4897],
+		        [8.46222, 49.479699999999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.57222, 49.439699999999995],
+		        [8.582220000000001, 49.439699999999995],
+		        [8.582220000000001, 49.4497],
+		        [8.57222, 49.4497],
+		        [8.57222, 49.439699999999995]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/Building"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.44222, 49.469699999999996],
+		        [8.452220000000002, 49.469699999999996],
+		        [8.452220000000002, 49.4797],
+		        [8.44222, 49.4797],
+		        [8.44222, 49.469699999999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.432220000000001, 49.469699999999996],
+		        [8.442220000000002, 49.469699999999996],
+		        [8.442220000000002, 49.4797],
+		        [8.432220000000001, 49.4797],
+		        [8.432220000000001, 49.469699999999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.45222, 49.469699999999996],
+		        [8.462220000000002, 49.469699999999996],
+		        [8.462220000000002, 49.4797],
+		        [8.45222, 49.4797],
+		        [8.45222, 49.469699999999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/University"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.45222, 49.48969999999999],
+		        [8.462220000000002, 49.48969999999999],
+		        [8.462220000000002, 49.4997],
+		        [8.45222, 49.4997],
+		        [8.45222, 49.48969999999999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.59222, 49.469699999999996],
+		        [8.60222, 49.469699999999996],
+		        [8.60222, 49.4797],
+		        [8.59222, 49.4797],
+		        [8.59222, 49.469699999999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.48222, 49.52969999999999],
+		        [8.492220000000001, 49.52969999999999],
+		        [8.492220000000001, 49.539699999999996],
+		        [8.48222, 49.539699999999996],
+		        [8.48222, 49.52969999999999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/ArchitecturalStructure"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.42222, 49.48969999999999],
+		        [8.432220000000001, 49.48969999999999],
+		        [8.432220000000001, 49.4997],
+		        [8.42222, 49.4997],
+		        [8.42222, 49.48969999999999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/Museum"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.49222, 49.469699999999996],
+		        [8.502220000000001, 49.469699999999996],
+		        [8.502220000000001, 49.4797],
+		        [8.49222, 49.4797],
+		        [8.49222, 49.469699999999996]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/University"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.47222, 49.45969999999999],
+		        [8.482220000000002, 49.45969999999999],
+		        [8.482220000000002, 49.469699999999996],
+		        [8.47222, 49.469699999999996],
+		        [8.47222, 49.45969999999999]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/University"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.44222, 49.479699999999994],
+		        [8.452220000000002, 49.479699999999994],
+		        [8.452220000000002, 49.4897],
+		        [8.44222, 49.4897],
+		        [8.44222, 49.479699999999994]
+		      ]
+		    ]
+		  }
+		},
+{
+		  "type": "Feature",
+		  "properties": {
+		    "name": "http://dbpedia.org/ontology/Stadium"
+		  },
+		  "geometry": {
+		    "type": "Polygon",
+		    "coordinates": [
+		      [
+		        [8.41222, 49.48969999999999],
+		        [8.422220000000001, 49.48969999999999],
+		        [8.422220000000001, 49.4997],
+		        [8.41222, 49.4997],
+		        [8.41222, 49.48969999999999]
+		      ]
+		    ]
+		  }
+		}]
+		}

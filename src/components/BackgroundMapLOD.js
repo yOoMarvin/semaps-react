@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Map, TileLayer, GeoJSON } from "react-leaflet";
-import data from "../utils/geo.json";
+import data from "../utils/linked-open-data.json";
 
 function getAreaColor(feature) {
   switch (feature.properties.name) {
@@ -36,16 +36,7 @@ function getAreaColor(feature) {
   }
 }
 
-function getRandomColor() {
-  var letters = "0123456789ABCDEF";
-  var color = "#";
-  for (var i = 0; i < 6; i++) {
-    color += letters[Math.floor(Math.random() * 16)];
-  }
-  return color;
-}
-
-export default class BackgroundMap extends Component {
+export default class BackgroundMapLOD extends Component {
   getStyle(feature, layer) {
     return {
       fillColor: getAreaColor(feature),
@@ -60,7 +51,12 @@ export default class BackgroundMap extends Component {
   }
   render() {
     return (
-      <Map id="map" center={this.props.center} zoom={14} zoomControl={false}>
+      <Map
+        className="map"
+        center={this.props.center}
+        zoom={14}
+        zoomControl={false}
+      >
         <TileLayer
           attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"

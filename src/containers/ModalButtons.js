@@ -9,7 +9,7 @@ export default class ModalButtons extends Component {
   }
   render() {
     return (
-      <div id="modal-buttons-child">
+      <div className="modal-buttons-child">
         <Popup
           trigger={<button className="button"> About semaps 🌍 </button>}
           modal

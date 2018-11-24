@@ -12,6 +12,13 @@ export default class About extends Component {
           for your next city trip! Of course, we're using the beautiful Mannheim
           as a starting point!
         </p>
+        <h4>Datasets 📊</h4>
+        We have used different datasets to get a better comparison. You can
+        swtich between the <br />
+        <a href="/linked-open-data">Linked Open Geodata Dataset</a>
+        <br /> and the <br />
+        <a href="/db-pedia">DP Pedia Dataset</a>. <br />
+        Have fun exploring ✌️
       </div>
     );
   }
