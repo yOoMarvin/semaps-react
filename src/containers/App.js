@@ -37,7 +37,7 @@ export default class App extends Component {
   fetchJSON() {
     const long = this.state.center[1];
     const lat = this.state.center[0];
-    const BASE_URL = "http://shielded-cove-84167.herokuapp.com/cluster";
+    const BASE_URL = "https://shielded-cove-84167.herokuapp.com/cluster";
 
     axios
       .get(BASE_URL, {
