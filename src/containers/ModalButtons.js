@@ -11,7 +11,7 @@ export default class ModalButtons extends Component {
     return (
       <div className="modal-buttons-child">
         <Popup
-          trigger={<button className="button"> About semaps 🌍 </button>}
+          trigger={<button className="button"> About Semaps 🌍 </button>}
           modal
           closeOnDocumentClick
         >

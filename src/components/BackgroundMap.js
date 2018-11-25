@@ -1,42 +1,54 @@
 import React, { Component } from "react";
 import { Map, TileLayer, GeoJSON } from "react-leaflet";
-import data from "../utils/linked-open-data.json";
 
 function getAreaColor(feature) {
-  switch (feature.properties.name) {
+  var parts = feature.properties.name.split("/");
+  var category = parts.pop() || parts.pop(); // handle potential trailing slash
+
+  switch (category) {
     // Education
-    case "http://linkedgeodata.org/ontology/University":
+    case "University":
       return "dodgerblue";
-    case "http://linkedgeodata.org/ontology/School":
+    case "School":
       return "deepskyblue";
     // Nature and Leisure
-    case "http://linkedgeodata.org/ontology/Leisure":
+    case "Leisure":
       return "green";
     // Sports
-    case "http://linkedgeodata.org/ontology/SportThing":
+    case "SportThing":
+      return "yellow";
+    case "Stadium":
       return "yellow";
     // Hospital
-    case "http://linkedgeodata.org/ontology/Hospital":
+    case "Hospital":
       return "red";
     // Shopping
-    case "http://linkedgeodata.org/ontology/Shop":
+    case "Shop":
+      return "orange";
+    case "Company":
       return "orange";
     // Tourist and Historic
-    case "http://linkedgeodata.org/ontology/TourismThing":
+    case "TourismThing":
       return "purple";
-    case "http://linkedgeodata.org/ontology/HistoricThing":
+    case "HistoricThing":
+      return "purple";
+    case "ArchitecturalStructure":
+      return "purple";
+    case "Museum":
       return "purple";
     // Misc.
-    case "http://linkedgeodata.org/ontology/ManMadeThing":
+    case "ManMadeThing":
       return;
-    case "http://linkedgeodata.org/ontology/RailwayThing":
+    case "RailwayThing":
+      return "lightgray";
+    case "Building":
       return "lightgray";
 
       break;
   }
 }
 
-export default class BackgroundMapLOD extends Component {
+export default class BackgroundMap extends Component {
   getStyle(feature, layer) {
     return {
       fillColor: getAreaColor(feature),
@@ -46,7 +58,7 @@ export default class BackgroundMapLOD extends Component {
   }
   onEachFeature(feature, layer) {
     if (feature.properties && feature.properties.name) {
-      layer.bindPopup(feature.properties.name);
+      layer.bindPopup(feature.properties.name.split("/").pop());
     }
   }
   render() {
@@ -62,9 +74,10 @@ export default class BackgroundMapLOD extends Component {
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         <GeoJSON
-          data={data}
+          data={this.props.data}
           style={this.getStyle}
           onEachFeature={this.onEachFeature}
+          key={this.props.key}
         />
       </Map>
     );

@@ -22,23 +22,27 @@ code {
 .content {
   position: absolute;
   z-index: 1;
-  right: 16px;
   left: 16px;
   margin-top: 8px;
 }
 
+.title {
+  background-color: white;
+  border-radius: 5px;
+  width: auto;
+  padding: 8px;
+}
+
 .modal-buttons {
-  float: right;
   margin-top: 16px;
 }
 
 .modal-buttons-child {
-  flex-direction: column;
   display: flex;
   margin-top: 8px;
 }
 .button {
-  margin-top: 16px;
+  margin-right: 16px;
   font-weight: bold;
   font-size: 14px;
   background-color: white;
