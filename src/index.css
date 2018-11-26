@@ -22,7 +22,7 @@ code {
 .content {
   position: absolute;
   z-index: 1;
-  left: 16px;
+  right: 16px;
   margin-top: 8px;
 }
 
@@ -33,8 +33,26 @@ code {
   padding: 8px;
 }
 
+.form {
+  display: flex;
+  flex-direction: row;
+}
+
 .modal-buttons {
   margin-top: 16px;
+}
+
+.data-selection {
+  background-color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 16px;
+  padding-left: 8px;
+  padding-top: 0.5px;
+}
+
+.radio {
+  padding-bottom: 8px;
 }
 
 .modal-buttons-child {

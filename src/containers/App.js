@@ -12,15 +12,20 @@ export default class App extends Component {
       city: "Mannheim",
       center: [49.487457, 8.46604],
       data: defaultData,
+      selectedData: "lod",
       key: "default"
     };
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
-    //this.fetchJSON = this.fetchJSON.bind(this);
+    this.handleOptionChange = this.handleOptionChange.bind(this);
   }
 
   handleChange(event) {
     this.setState({ city: event.target.value });
+  }
+
+  handleOptionChange(event) {
+    this.setState({ selectedData: event.target.value });
   }
 
   handleSubmit(event) {
@@ -37,13 +42,14 @@ export default class App extends Component {
   fetchJSON() {
     const long = this.state.center[1];
     const lat = this.state.center[0];
+    const dataorigin = this.state.selectedData;
     const BASE_URL = "https://shielded-cove-84167.herokuapp.com/cluster";
 
     axios
       .get(BASE_URL, {
         params: {
           algorithm: "simple",
-          dataorigin: "dbpedia",
+          dataorigin: dataorigin,
           latitude: lat,
           longitude: long
         },
@@ -103,8 +109,8 @@ export default class App extends Component {
     return (
       <div>
         <div className="content">
-          <div className="modal-buttons">
-            <form onSubmit={this.handleSubmit} className="search-bar">
+          <form onSubmit={this.handleSubmit}>
+            <div className="search-bar">
               <div> </div>
               <input
                 className="search-text"
@@ -115,7 +121,35 @@ export default class App extends Component {
               <button className="submit-button" type="submit">
                 🔍
               </button>
-            </form>
+            </div>
+            <div className="data-selection">
+              <h3>Select your data 📊</h3>
+              <div className="radio">
+                <label>
+                  <input
+                    type="radio"
+                    value="lod"
+                    onChange={this.handleOptionChange}
+                    checked={this.state.selectedData == "lod"}
+                  />
+                  Linked Open Data
+                </label>
+              </div>
+              <div className="radio">
+                <label>
+                  <input
+                    type="radio"
+                    value="dbpedia"
+                    onChange={this.handleOptionChange}
+                    checked={this.state.selectedData == "dbpedia"}
+                  />
+                  DB Pedia
+                </label>
+              </div>
+            </div>
+          </form>
+
+          <div className="modal-buttons">
             <ModalButtos />
           </div>
         </div>
