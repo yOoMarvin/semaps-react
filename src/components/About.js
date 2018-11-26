@@ -14,11 +14,8 @@ export default class About extends Component {
         </p>
         <h4>Datasets 📊</h4>
         We have used different datasets to get a better comparison. You can
-        swtich between the <br />
-        <a href="/linked-open-data">Linked Open Geodata Dataset</a>
-        <br /> and the <br />
-        <a href="/db-pedia">DP Pedia Dataset</a>. <br />
-        Have fun exploring ✌️
+        swtich between the <b>Linked Open Dataset</b> and the{" "}
+        <b>DP Pedia Dataset</b>. Have fun exploring ✌️
       </div>
     );
   }

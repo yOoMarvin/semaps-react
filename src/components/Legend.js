@@ -41,7 +41,7 @@ export default class About extends Component {
             </tr>
             <tr>
               <td style={{ backgroundColor: "lightgrey" }} />
-              <td>Railway</td>
+              <td>Railway & General Buildings</td>
             </tr>
           </tbody>
         </table>
